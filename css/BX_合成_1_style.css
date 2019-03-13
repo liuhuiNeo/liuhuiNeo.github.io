@@ -1,0 +1,1396 @@
+/* Generated via BX-AE2CSS by BigXiXi */
+.BX_AEComposition{
+    background: transparent;
+    width: 1920px;
+    height: 1080px;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    transform: translate3D(0,0,0) scale(1,1);
+    transform-origin:50% 0%;
+}
+.BX_Class18{
+    left: 0.00px;
+    top: 0.00px;
+    width: 1920px;
+    height: 1080px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(0.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG18{
+    background: url("imgs/%E8%83%8C%E6%99%AF%20%E6%8B%B7%E8%B4%9D.png");
+}
+.BX_Ani18{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey18 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey18{
+/* 		This layer has no animations to export */
+/* 		This layer has no animations to export */
+	}
+.BX_Class17{
+    left: 174.00px;
+    top: -878.00px;
+    width: 148px;
+    height: 186px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(0.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG17{
+    background: url("imgs/D.png");
+}
+.BX_Ani17{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey17 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey17{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	5.60% {transform: translate3D(-0.00px,2.52px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.00% {transform: translate3D(0.00px,10.64px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.40% {transform: translate3D(-0.00px,25.12px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.80% {transform: translate3D(0.00px,46.86px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.20% {transform: translate3D(0.00px,76.69px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.60% {transform: translate3D(0.00px,115.25px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.00% {transform: translate3D(0.00px,162.79px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.40% {transform: translate3D(-0.00px,218.76px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.80% {transform: translate3D(0.00px,281.68px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.20% {transform: translate3D(0.00px,349.19px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.60% {transform: translate3D(0.00px,418.48px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.00% {transform: translate3D(-0.00px,486.94px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.40% {transform: translate3D(0.00px,552.54px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.80% {transform: translate3D(0.00px,614.03px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.20% {transform: translate3D(0.00px,670.79px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.60% {transform: translate3D(0.00px,722.64px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.00% {transform: translate3D(0.00px,769.71px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.40% {transform: translate3D(0.00px,812.25px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.80% {transform: translate3D(0.00px,850.55px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.20% {transform: translate3D(0.00px,884.98px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.60% {transform: translate3D(-0.00px,915.85px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.00% {transform: translate3D(-0.00px,943.46px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.40% {transform: translate3D(0.00px,968.11px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.80% {transform: translate3D(0.00px,990.02px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.20% {transform: translate3D(0.00px,1009.45px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.60% {transform: translate3D(0.00px,1026.58px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.00% {transform: translate3D(0.00px,1041.60px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.40% {transform: translate3D(0.00px,1054.67px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.80% {transform: translate3D(0.00px,1065.93px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.20% {transform: translate3D(0.00px,1075.51px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.60% {transform: translate3D(0.00px,1083.53px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.00% {transform: translate3D(0.00px,1090.09px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.40% {transform: translate3D(0.00px,1095.28px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.80% {transform: translate3D(0.00px,1099.19px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.20% {transform: translate3D(0.00px,1101.92px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.60% {transform: translate3D(0.00px,1103.50px,0.00px) rotate(0.00deg) scale(1,1);}
+	20.00% {transform: translate3D(0.00px,1104.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1104.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1104.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class16{
+    left: 426.00px;
+    top: -374.00px;
+    width: 121px;
+    height: 186px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(0.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG16{
+    background: url("imgs/E.png");
+}
+.BX_Ani16{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey16 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey16{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	5.20% {transform: translate3D(-0.00px,2.25px,0.00px) rotate(0.00deg) scale(1,1);}
+	5.60% {transform: translate3D(-0.00px,9.48px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.00% {transform: translate3D(0.00px,22.35px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.40% {transform: translate3D(0.00px,41.64px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.80% {transform: translate3D(0.00px,68.08px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.20% {transform: translate3D(0.00px,102.28px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.60% {transform: translate3D(0.00px,144.48px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.00% {transform: translate3D(0.00px,194.37px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.40% {transform: translate3D(0.00px,250.83px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.80% {transform: translate3D(0.00px,311.95px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.20% {transform: translate3D(0.00px,375.32px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.60% {transform: translate3D(-0.00px,438.56px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.00% {transform: translate3D(0.00px,499.76px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.40% {transform: translate3D(0.00px,557.59px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.80% {transform: translate3D(0.00px,611.35px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.20% {transform: translate3D(0.00px,660.75px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.60% {transform: translate3D(0.00px,705.81px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.00% {transform: translate3D(-0.00px,746.70px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.40% {transform: translate3D(0.00px,783.68px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.80% {transform: translate3D(0.00px,817.04px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.20% {transform: translate3D(-0.00px,847.08px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.60% {transform: translate3D(0.00px,874.07px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.00% {transform: translate3D(0.00px,898.25px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.40% {transform: translate3D(0.00px,919.88px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.80% {transform: translate3D(0.00px,939.15px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.20% {transform: translate3D(0.00px,956.25px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.60% {transform: translate3D(-0.00px,971.37px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.00% {transform: translate3D(0.00px,984.63px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.40% {transform: translate3D(-0.00px,996.19px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.80% {transform: translate3D(0.00px,1006.16px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.20% {transform: translate3D(0.00px,1014.66px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.60% {transform: translate3D(-0.00px,1021.78px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.00% {transform: translate3D(0.00px,1027.61px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.40% {transform: translate3D(0.00px,1032.23px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.80% {transform: translate3D(0.00px,1035.71px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.20% {transform: translate3D(0.00px,1038.14px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.60% {transform: translate3D(0.00px,1039.55px,0.00px) rotate(0.00deg) scale(1,1);}
+	20.00% {transform: translate3D(0.00px,1040.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1040.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1040.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class15{
+    left: 1339.00px;
+    top: -954.00px;
+    width: 154px;
+    height: 192px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(0.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG15{
+    background: url("imgs/G.png");
+}
+.BX_Ani15{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey15 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey15{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	5.20% {transform: translate3D(-0.00px,2.48px,0.00px) rotate(0.00deg) scale(1,1);}
+	5.60% {transform: translate3D(0.00px,10.44px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.00% {transform: translate3D(0.00px,24.61px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.40% {transform: translate3D(0.00px,45.85px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.80% {transform: translate3D(0.00px,74.95px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.20% {transform: translate3D(0.00px,112.60px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.60% {transform: translate3D(0.00px,159.07px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.00% {transform: translate3D(0.00px,214.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.40% {transform: translate3D(0.00px,276.15px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.80% {transform: translate3D(0.00px,343.44px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.20% {transform: translate3D(0.00px,413.21px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.60% {transform: translate3D(0.00px,482.84px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.00% {transform: translate3D(0.00px,550.22px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.40% {transform: translate3D(0.00px,613.89px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.80% {transform: translate3D(0.00px,673.07px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.20% {transform: translate3D(0.00px,727.46px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.60% {transform: translate3D(0.00px,777.07px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.00% {transform: translate3D(0.00px,822.08px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.40% {transform: translate3D(0.00px,862.80px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.80% {transform: translate3D(0.00px,899.53px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.20% {transform: translate3D(0.00px,932.60px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.60% {transform: translate3D(0.00px,962.31px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.00% {transform: translate3D(0.00px,988.94px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.40% {transform: translate3D(0.00px,1012.75px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.80% {transform: translate3D(0.00px,1033.96px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.20% {transform: translate3D(0.00px,1052.80px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.60% {transform: translate3D(0.00px,1069.44px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.00% {transform: translate3D(0.00px,1084.04px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.40% {transform: translate3D(0.00px,1096.77px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.80% {transform: translate3D(0.00px,1107.75px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.20% {transform: translate3D(0.00px,1117.10px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.60% {transform: translate3D(-0.00px,1124.94px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.00% {transform: translate3D(0.00px,1131.36px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.40% {transform: translate3D(0.00px,1136.44px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.80% {transform: translate3D(0.00px,1140.28px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.20% {transform: translate3D(0.00px,1142.96px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.60% {transform: translate3D(-0.00px,1144.50px,0.00px) rotate(0.00deg) scale(1,1);}
+	20.00% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class14{
+    left: 818.50px;
+    top: -956.00px;
+    width: 141px;
+    height: 192px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(0.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG14{
+    background: url("imgs/S.png");
+}
+.BX_Ani14{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey14 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey14{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	5.20% {transform: translate3D(-0.00px,2.48px,0.00px) rotate(0.00deg) scale(1,1);}
+	5.60% {transform: translate3D(0.00px,10.44px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.00% {transform: translate3D(0.00px,24.61px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.40% {transform: translate3D(-0.00px,45.85px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.80% {transform: translate3D(0.00px,74.95px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.20% {transform: translate3D(0.00px,112.60px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.60% {transform: translate3D(0.00px,159.07px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.00% {transform: translate3D(0.00px,214.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.40% {transform: translate3D(0.00px,276.15px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.80% {transform: translate3D(0.00px,343.43px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.20% {transform: translate3D(0.00px,413.20px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.60% {transform: translate3D(0.00px,482.84px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.00% {transform: translate3D(0.00px,550.22px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.40% {transform: translate3D(-0.00px,613.89px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.80% {transform: translate3D(0.00px,673.07px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.20% {transform: translate3D(0.00px,727.45px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.60% {transform: translate3D(0.00px,777.05px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.00% {transform: translate3D(0.00px,822.08px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.40% {transform: translate3D(0.00px,862.80px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.80% {transform: translate3D(0.00px,899.53px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.20% {transform: translate3D(0.00px,932.61px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.60% {transform: translate3D(0.00px,962.31px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.00% {transform: translate3D(0.00px,988.94px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.40% {transform: translate3D(0.00px,1012.75px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.80% {transform: translate3D(0.00px,1033.96px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.20% {transform: translate3D(0.00px,1052.80px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.60% {transform: translate3D(0.00px,1069.44px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.00% {transform: translate3D(-0.00px,1084.04px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.40% {transform: translate3D(0.00px,1096.77px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.80% {transform: translate3D(0.00px,1107.75px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.20% {transform: translate3D(0.00px,1117.10px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.60% {transform: translate3D(0.00px,1124.94px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.00% {transform: translate3D(0.00px,1131.36px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.40% {transform: translate3D(0.00px,1136.44px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.80% {transform: translate3D(0.00px,1140.28px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.20% {transform: translate3D(0.00px,1142.96px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.60% {transform: translate3D(0.00px,1144.50px,0.00px) rotate(0.00deg) scale(1,1);}
+	20.00% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class13{
+    left: 1523.00px;
+    top: -392.00px;
+    width: 148px;
+    height: 186px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(0.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG13{
+    background: url("imgs/N.png");
+}
+.BX_Ani13{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey13 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey13{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	4.80% {transform: translate3D(0.00px,2.35px,0.00px) rotate(0.00deg) scale(1,1);}
+	5.20% {transform: translate3D(0.00px,9.88px,0.00px) rotate(0.00deg) scale(1,1);}
+	5.60% {transform: translate3D(0.00px,23.28px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.00% {transform: translate3D(0.00px,43.32px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.40% {transform: translate3D(0.00px,70.76px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.80% {transform: translate3D(0.00px,106.24px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.20% {transform: translate3D(0.00px,150.08px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.60% {transform: translate3D(0.00px,202.08px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.00% {transform: translate3D(0.00px,261.27px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.40% {transform: translate3D(0.00px,325.83px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.80% {transform: translate3D(0.00px,393.43px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.20% {transform: translate3D(-0.00px,461.57px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.60% {transform: translate3D(0.00px,528.12px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.00% {transform: translate3D(0.00px,591.52px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.40% {transform: translate3D(0.00px,650.87px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.80% {transform: translate3D(0.00px,705.73px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.20% {transform: translate3D(0.00px,756.01px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.60% {transform: translate3D(0.00px,801.85px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.00% {transform: translate3D(0.00px,843.48px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.40% {transform: translate3D(0.00px,881.17px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.80% {transform: translate3D(0.00px,915.23px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.20% {transform: translate3D(0.00px,945.95px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.60% {transform: translate3D(0.00px,973.59px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.00% {transform: translate3D(0.00px,998.42px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.40% {transform: translate3D(0.00px,1020.65px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.80% {transform: translate3D(0.00px,1040.50px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.20% {transform: translate3D(0.00px,1058.14px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.60% {transform: translate3D(0.00px,1073.76px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.00% {transform: translate3D(0.00px,1087.48px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.40% {transform: translate3D(-0.00px,1099.45px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.80% {transform: translate3D(0.00px,1109.80px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.20% {transform: translate3D(-0.00px,1118.62px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.60% {transform: translate3D(-0.00px,1126.02px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.00% {transform: translate3D(0.00px,1132.08px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.40% {transform: translate3D(0.00px,1136.89px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.80% {transform: translate3D(0.00px,1140.53px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.20% {transform: translate3D(0.00px,1143.06px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.60% {transform: translate3D(0.00px,1144.53px,0.00px) rotate(0.00deg) scale(1,1);}
+	20.00% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class12{
+    left: -31.00px;
+    top: -729.00px;
+    width: 275px;
+    height: 332px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(-80.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG12{
+    background: url("imgs/%E5%8F%B6%E5%AD%90%20%E6%8B%B7%E8%B4%9D%202.png");
+}
+.BX_Ani12{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey12 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey12{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(-80.00deg) scale(1,1);}
+	24.00% {transform: translate3D(0.99px,17.52px,0.00px) rotate(-80.10deg) scale(1,1);}
+	24.40% {transform: translate3D(3.66px,36.96px,0.00px) rotate(-80.38deg) scale(1,1);}
+	24.80% {transform: translate3D(7.40px,57.19px,0.00px) rotate(-80.83deg) scale(1,1);}
+	25.20% {transform: translate3D(11.77px,77.72px,0.00px) rotate(-81.44deg) scale(1,1);}
+	25.60% {transform: translate3D(16.46px,98.37px,0.00px) rotate(-82.18deg) scale(1,1);}
+	26.00% {transform: translate3D(21.24px,118.96px,0.00px) rotate(-83.05deg) scale(1,1);}
+	26.40% {transform: translate3D(25.98px,139.39px,0.00px) rotate(-84.02deg) scale(1,1);}
+	26.80% {transform: translate3D(30.55px,159.60px,0.00px) rotate(-85.07deg) scale(1,1);}
+	27.20% {transform: translate3D(34.89px,179.51px,0.00px) rotate(-86.21deg) scale(1,1);}
+	27.60% {transform: translate3D(38.94px,199.05px,0.00px) rotate(-87.39deg) scale(1,1);}
+	28.00% {transform: translate3D(42.65px,218.17px,0.00px) rotate(-88.62deg) scale(1,1);}
+	28.40% {transform: translate3D(45.99px,236.78px,0.00px) rotate(-89.87deg) scale(1,1);}
+	28.80% {transform: translate3D(48.95px,254.83px,0.00px) rotate(-91.13deg) scale(1,1);}
+	29.20% {transform: translate3D(51.51px,272.23px,0.00px) rotate(-92.38deg) scale(1,1);}
+	29.60% {transform: translate3D(53.69px,288.91px,0.00px) rotate(-93.61deg) scale(1,1);}
+	30.00% {transform: translate3D(55.48px,304.77px,0.00px) rotate(-94.79deg) scale(1,1);}
+	30.40% {transform: translate3D(56.92px,319.70px,0.00px) rotate(-95.93deg) scale(1,1);}
+	30.80% {transform: translate3D(58.02px,333.60px,0.00px) rotate(-96.98deg) scale(1,1);}
+	31.20% {transform: translate3D(58.83px,346.35px,0.00px) rotate(-97.95deg) scale(1,1);}
+	31.60% {transform: translate3D(59.38px,357.79px,0.00px) rotate(-98.82deg) scale(1,1);}
+	32.00% {transform: translate3D(59.72px,367.75px,0.00px) rotate(-99.56deg) scale(1,1);}
+	32.40% {transform: translate3D(59.90px,376.04px,0.00px) rotate(-100.17deg) scale(1,1);}
+	32.80% {transform: translate3D(59.98px,382.40px,0.00px) rotate(-100.62deg) scale(1,1);}
+	33.20% {transform: translate3D(60.00px,386.52px,0.00px) rotate(-100.90deg) scale(1,1);}
+	33.60% {transform: translate3D(60.00px,388.00px,0.00px) rotate(-101.00deg) scale(1,1);}
+	34.00% {transform: translate3D(59.30px,406.17px,0.00px) rotate(-100.69deg) scale(1,1);}
+	34.40% {transform: translate3D(57.03px,426.37px,0.00px) rotate(-99.78deg) scale(1,1);}
+	34.80% {transform: translate3D(53.20px,447.33px,0.00px) rotate(-98.34deg) scale(1,1);}
+	35.20% {transform: translate3D(48.06px,468.47px,0.00px) rotate(-96.40deg) scale(1,1);}
+	35.60% {transform: translate3D(41.87px,489.51px,0.00px) rotate(-94.03deg) scale(1,1);}
+	36.00% {transform: translate3D(34.88px,510.27px,0.00px) rotate(-91.27deg) scale(1,1);}
+	36.40% {transform: translate3D(27.36px,530.66px,0.00px) rotate(-88.18deg) scale(1,1);}
+	36.80% {transform: translate3D(19.51px,550.64px,0.00px) rotate(-84.81deg) scale(1,1);}
+	37.20% {transform: translate3D(11.51px,570.18px,0.00px) rotate(-81.20deg) scale(1,1);}
+	37.60% {transform: translate3D(3.53px,589.26px,0.00px) rotate(-77.42deg) scale(1,1);}
+	38.00% {transform: translate3D(-4.29px,607.86px,0.00px) rotate(-73.50deg) scale(1,1);}
+	38.40% {transform: translate3D(-11.82px,625.96px,0.00px) rotate(-69.51deg) scale(1,1);}
+	38.80% {transform: translate3D(-18.96px,643.51px,0.00px) rotate(-65.49deg) scale(1,1);}
+	39.20% {transform: translate3D(-25.60px,660.49px,0.00px) rotate(-61.50deg) scale(1,1);}
+	39.60% {transform: translate3D(-31.66px,676.82px,0.00px) rotate(-57.58deg) scale(1,1);}
+	40.00% {transform: translate3D(-37.08px,692.44px,0.00px) rotate(-53.80deg) scale(1,1);}
+	40.40% {transform: translate3D(-41.81px,707.26px,0.00px) rotate(-50.19deg) scale(1,1);}
+	40.80% {transform: translate3D(-45.81px,721.14px,0.00px) rotate(-46.82deg) scale(1,1);}
+	41.20% {transform: translate3D(-49.09px,733.97px,0.00px) rotate(-43.73deg) scale(1,1);}
+	41.60% {transform: translate3D(-51.66px,745.56px,0.00px) rotate(-40.97deg) scale(1,1);}
+	42.00% {transform: translate3D(-53.58px,755.72px,0.00px) rotate(-38.60deg) scale(1,1);}
+	42.40% {transform: translate3D(-54.93px,764.20px,0.00px) rotate(-36.66deg) scale(1,1);}
+	42.80% {transform: translate3D(-55.80px,770.72px,0.00px) rotate(-35.22deg) scale(1,1);}
+	43.20% {transform: translate3D(-56.28px,774.96px,0.00px) rotate(-34.31deg) scale(1,1);}
+	43.60% {transform: translate3D(-56.43px,776.48px,0.00px) rotate(-34.00deg) scale(1,1);}
+	44.00% {transform: translate3D(-57.87px,794.00px,0.00px) rotate(-33.84deg) scale(1,1);}
+	44.40% {transform: translate3D(-58.76px,813.61px,0.00px) rotate(-33.38deg) scale(1,1);}
+	44.80% {transform: translate3D(-58.91px,834.17px,0.00px) rotate(-32.65deg) scale(1,1);}
+	45.20% {transform: translate3D(-58.29px,855.18px,0.00px) rotate(-31.67deg) scale(1,1);}
+	45.60% {transform: translate3D(-56.91px,876.31px,0.00px) rotate(-30.46deg) scale(1,1);}
+	46.00% {transform: translate3D(-54.83px,897.35px,0.00px) rotate(-29.06deg) scale(1,1);}
+	46.40% {transform: translate3D(-52.13px,918.17px,0.00px) rotate(-27.50deg) scale(1,1);}
+	46.80% {transform: translate3D(-48.89px,938.65px,0.00px) rotate(-25.78deg) scale(1,1);}
+	47.20% {transform: translate3D(-45.20px,958.70px,0.00px) rotate(-23.95deg) scale(1,1);}
+	47.60% {transform: translate3D(-41.16px,978.26px,0.00px) rotate(-22.03deg) scale(1,1);}
+	48.00% {transform: translate3D(-36.87px,997.26px,0.00px) rotate(-20.05deg) scale(1,1);}
+	48.40% {transform: translate3D(-32.42px,1015.66px,0.00px) rotate(-18.02deg) scale(1,1);}
+	48.80% {transform: translate3D(-27.93px,1033.39px,0.00px) rotate(-15.98deg) scale(1,1);}
+	49.20% {transform: translate3D(-23.47px,1050.41px,0.00px) rotate(-13.95deg) scale(1,1);}
+	49.60% {transform: translate3D(-19.16px,1066.68px,0.00px) rotate(-11.97deg) scale(1,1);}
+	50.00% {transform: translate3D(-15.09px,1082.13px,0.00px) rotate(-10.05deg) scale(1,1);}
+	50.40% {transform: translate3D(-11.36px,1096.67px,0.00px) rotate(-8.22deg) scale(1,1);}
+	50.80% {transform: translate3D(-8.07px,1110.23px,0.00px) rotate(-6.50deg) scale(1,1);}
+	51.20% {transform: translate3D(-5.30px,1122.71px,0.00px) rotate(-4.94deg) scale(1,1);}
+	51.60% {transform: translate3D(-3.12px,1133.96px,0.00px) rotate(-3.54deg) scale(1,1);}
+	52.00% {transform: translate3D(-1.56px,1143.82px,0.00px) rotate(-2.33deg) scale(1,1);}
+	52.40% {transform: translate3D(-0.60px,1152.06px,0.00px) rotate(-1.35deg) scale(1,1);}
+	52.80% {transform: translate3D(-0.14px,1158.41px,0.00px) rotate(-0.62deg) scale(1,1);}
+	53.20% {transform: translate3D(-0.01px,1162.53px,0.00px) rotate(-0.16deg) scale(1,1);}
+	53.60% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class11{
+    left: 1494.00px;
+    top: -564.50px;
+    width: 181px;
+    height: 185px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(126.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG11{
+    background: url("imgs/%E5%8F%B6%E5%AD%90%20%E6%8B%B7%E8%B4%9D%203.png");
+}
+.BX_Ani11{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey11 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey11{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(126.00deg) scale(1,1);}
+	26.40% {transform: translate3D(-3.02px,18.70px,0.00px) rotate(126.23deg) scale(1,1);}
+	26.80% {transform: translate3D(-10.59px,38.53px,0.00px) rotate(126.89deg) scale(1,1);}
+	27.20% {transform: translate3D(-20.65px,58.39px,0.00px) rotate(127.95deg) scale(1,1);}
+	27.60% {transform: translate3D(-32.00px,78.09px,0.00px) rotate(129.36deg) scale(1,1);}
+	28.00% {transform: translate3D(-43.97px,97.62px,0.00px) rotate(131.10deg) scale(1,1);}
+	28.40% {transform: translate3D(-56.12px,117.01px,0.00px) rotate(133.11deg) scale(1,1);}
+	28.80% {transform: translate3D(-68.18px,136.25px,0.00px) rotate(135.37deg) scale(1,1);}
+	29.20% {transform: translate3D(-79.94px,155.36px,0.00px) rotate(137.84deg) scale(1,1);}
+	29.60% {transform: translate3D(-91.22px,174.32px,0.00px) rotate(140.48deg) scale(1,1);}
+	30.00% {transform: translate3D(-101.89px,193.11px,0.00px) rotate(143.25deg) scale(1,1);}
+	30.40% {transform: translate3D(-111.84px,211.69px,0.00px) rotate(146.11deg) scale(1,1);}
+	30.80% {transform: translate3D(-120.98px,230.01px,0.00px) rotate(149.03deg) scale(1,1);}
+	31.20% {transform: translate3D(-129.23px,248.01px,0.00px) rotate(151.97deg) scale(1,1);}
+	31.60% {transform: translate3D(-136.53px,265.60px,0.00px) rotate(154.89deg) scale(1,1);}
+	32.00% {transform: translate3D(-142.85px,282.67px,0.00px) rotate(157.75deg) scale(1,1);}
+	32.40% {transform: translate3D(-148.16px,299.11px,0.00px) rotate(160.52deg) scale(1,1);}
+	32.80% {transform: translate3D(-152.48px,314.77px,0.00px) rotate(163.16deg) scale(1,1);}
+	33.20% {transform: translate3D(-155.84px,329.48px,0.00px) rotate(165.63deg) scale(1,1);}
+	33.60% {transform: translate3D(-158.33px,343.08px,0.00px) rotate(167.89deg) scale(1,1);}
+	34.00% {transform: translate3D(-160.04px,355.37px,0.00px) rotate(169.90deg) scale(1,1);}
+	34.40% {transform: translate3D(-161.11px,366.10px,0.00px) rotate(171.64deg) scale(1,1);}
+	34.80% {transform: translate3D(-161.69px,375.06px,0.00px) rotate(173.05deg) scale(1,1);}
+	35.20% {transform: translate3D(-161.93px,381.94px,0.00px) rotate(174.11deg) scale(1,1);}
+	35.60% {transform: translate3D(-162.00px,386.40px,0.00px) rotate(174.77deg) scale(1,1);}
+	36.00% {transform: translate3D(-162.00px,388.00px,0.00px) rotate(175.00deg) scale(1,1);}
+	36.40% {transform: translate3D(-160.60px,408.04px,0.00px) rotate(174.72deg) scale(1,1);}
+	36.80% {transform: translate3D(-156.13px,430.02px,0.00px) rotate(173.92deg) scale(1,1);}
+	37.20% {transform: translate3D(-148.82px,452.40px,0.00px) rotate(172.64deg) scale(1,1);}
+	37.60% {transform: translate3D(-139.25px,474.49px,0.00px) rotate(170.92deg) scale(1,1);}
+	38.00% {transform: translate3D(-128.03px,496.03px,0.00px) rotate(168.81deg) scale(1,1);}
+	38.40% {transform: translate3D(-115.65px,516.93px,0.00px) rotate(166.35deg) scale(1,1);}
+	38.80% {transform: translate3D(-102.51px,537.19px,0.00px) rotate(163.58deg) scale(1,1);}
+	39.20% {transform: translate3D(-88.91px,556.84px,0.00px) rotate(160.55deg) scale(1,1);}
+	39.60% {transform: translate3D(-75.12px,575.92px,0.00px) rotate(157.30deg) scale(1,1);}
+	40.00% {transform: translate3D(-61.33px,594.47px,0.00px) rotate(153.88deg) scale(1,1);}
+	40.40% {transform: translate3D(-47.72px,612.51px,0.00px) rotate(150.33deg) scale(1,1);}
+	40.80% {transform: translate3D(-34.45px,630.08px,0.00px) rotate(146.69deg) scale(1,1);}
+	41.20% {transform: translate3D(-21.65px,647.18px,0.00px) rotate(143.00deg) scale(1,1);}
+	41.60% {transform: translate3D(-9.45px,663.81px,0.00px) rotate(139.31deg) scale(1,1);}
+	42.00% {transform: translate3D(2.05px,679.96px,0.00px) rotate(135.67deg) scale(1,1);}
+	42.40% {transform: translate3D(12.72px,695.58px,0.00px) rotate(132.12deg) scale(1,1);}
+	42.80% {transform: translate3D(22.48px,710.64px,0.00px) rotate(128.70deg) scale(1,1);}
+	43.20% {transform: translate3D(31.23px,725.04px,0.00px) rotate(125.45deg) scale(1,1);}
+	43.60% {transform: translate3D(38.90px,738.68px,0.00px) rotate(122.42deg) scale(1,1);}
+	44.00% {transform: translate3D(45.44px,751.40px,0.00px) rotate(119.65deg) scale(1,1);}
+	44.40% {transform: translate3D(50.83px,763.03px,0.00px) rotate(117.19deg) scale(1,1);}
+	44.80% {transform: translate3D(55.10px,773.32px,0.00px) rotate(115.08deg) scale(1,1);}
+	45.20% {transform: translate3D(58.28px,781.99px,0.00px) rotate(113.36deg) scale(1,1);}
+	45.60% {transform: translate3D(60.48px,788.71px,0.00px) rotate(112.08deg) scale(1,1);}
+	46.00% {transform: translate3D(61.78px,793.09px,0.00px) rotate(111.28deg) scale(1,1);}
+	46.40% {transform: translate3D(62.22px,794.67px,0.00px) rotate(111.00deg) scale(1,1);}
+	46.80% {transform: translate3D(66.41px,811.94px,0.00px) rotate(110.44deg) scale(1,1);}
+	47.20% {transform: translate3D(69.88px,831.50px,0.00px) rotate(108.82deg) scale(1,1);}
+	47.60% {transform: translate3D(72.12px,852.17px,0.00px) rotate(106.23deg) scale(1,1);}
+	48.00% {transform: translate3D(72.98px,873.38px,0.00px) rotate(102.78deg) scale(1,1);}
+	48.40% {transform: translate3D(72.45px,894.74px,0.00px) rotate(98.55deg) scale(1,1);}
+	48.80% {transform: translate3D(70.62px,915.96px,0.00px) rotate(93.66deg) scale(1,1);}
+	49.20% {transform: translate3D(67.62px,936.84px,0.00px) rotate(88.18deg) scale(1,1);}
+	49.60% {transform: translate3D(63.63px,957.26px,0.00px) rotate(82.22deg) scale(1,1);}
+	50.00% {transform: translate3D(58.82px,977.11px,0.00px) rotate(75.88deg) scale(1,1);}
+	50.40% {transform: translate3D(53.40px,996.31px,0.00px) rotate(69.25deg) scale(1,1);}
+	50.80% {transform: translate3D(47.53px,1014.81px,0.00px) rotate(62.42deg) scale(1,1);}
+	51.20% {transform: translate3D(41.41px,1032.57px,0.00px) rotate(55.50deg) scale(1,1);}
+	51.60% {transform: translate3D(35.20px,1049.56px,0.00px) rotate(48.58deg) scale(1,1);}
+	52.00% {transform: translate3D(29.06px,1065.75px,0.00px) rotate(41.75deg) scale(1,1);}
+	52.40% {transform: translate3D(23.16px,1081.11px,0.00px) rotate(35.12deg) scale(1,1);}
+	52.80% {transform: translate3D(17.67px,1095.60px,0.00px) rotate(28.78deg) scale(1,1);}
+	53.20% {transform: translate3D(12.72px,1109.14px,0.00px) rotate(22.82deg) scale(1,1);}
+	53.60% {transform: translate3D(8.48px,1121.66px,0.00px) rotate(17.34deg) scale(1,1);}
+	54.00% {transform: translate3D(5.07px,1133.04px,0.00px) rotate(12.45deg) scale(1,1);}
+	54.40% {transform: translate3D(2.57px,1143.09px,0.00px) rotate(8.22deg) scale(1,1);}
+	54.80% {transform: translate3D(1.00px,1151.57px,0.00px) rotate(4.77deg) scale(1,1);}
+	55.20% {transform: translate3D(0.24px,1158.15px,0.00px) rotate(2.18deg) scale(1,1);}
+	55.60% {transform: translate3D(0.02px,1162.45px,0.00px) rotate(0.56deg) scale(1,1);}
+	56.00% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class10{
+    left: 1383.00px;
+    top: -1093.00px;
+    width: 286px;
+    height: 258px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(88.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG10{
+    background: url("imgs/%E5%8F%B6%E5%AD%90%20%E6%8B%B7%E8%B4%9D%204.png");
+}
+.BX_Ani10{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey10 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey10{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(88.00deg) scale(1,1);}
+	40.00% {transform: translate3D(0.16px,17.32px,0.00px) rotate(89.72deg) scale(1,1);}
+	40.40% {transform: translate3D(0.60px,36.67px,0.00px) rotate(91.44deg) scale(1,1);}
+	40.80% {transform: translate3D(1.23px,56.95px,0.00px) rotate(93.16deg) scale(1,1);}
+	41.20% {transform: translate3D(1.96px,77.65px,0.00px) rotate(94.88deg) scale(1,1);}
+	41.60% {transform: translate3D(2.75px,98.52px,0.00px) rotate(96.60deg) scale(1,1);}
+	42.00% {transform: translate3D(3.56px,119.35px,0.00px) rotate(98.32deg) scale(1,1);}
+	42.40% {transform: translate3D(4.35px,140.02px,0.00px) rotate(100.04deg) scale(1,1);}
+	42.80% {transform: translate3D(5.12px,160.45px,0.00px) rotate(101.76deg) scale(1,1);}
+	43.20% {transform: translate3D(5.85px,180.53px,0.00px) rotate(103.48deg) scale(1,1);}
+	43.60% {transform: translate3D(6.53px,200.21px,0.00px) rotate(105.20deg) scale(1,1);}
+	44.00% {transform: translate3D(7.15px,219.41px,0.00px) rotate(106.92deg) scale(1,1);}
+	44.40% {transform: translate3D(7.70px,238.06px,0.00px) rotate(108.64deg) scale(1,1);}
+	44.80% {transform: translate3D(8.19px,256.09px,0.00px) rotate(110.36deg) scale(1,1);}
+	45.20% {transform: translate3D(8.61px,273.44px,0.00px) rotate(112.08deg) scale(1,1);}
+	45.60% {transform: translate3D(8.97px,290.02px,0.00px) rotate(113.80deg) scale(1,1);}
+	46.00% {transform: translate3D(9.26px,305.75px,0.00px) rotate(115.52deg) scale(1,1);}
+	46.40% {transform: translate3D(9.50px,320.55px,0.00px) rotate(117.24deg) scale(1,1);}
+	46.80% {transform: translate3D(9.68px,334.31px,0.00px) rotate(118.96deg) scale(1,1);}
+	47.20% {transform: translate3D(9.81px,346.90px,0.00px) rotate(120.68deg) scale(1,1);}
+	47.60% {transform: translate3D(9.90px,358.20px,0.00px) rotate(122.40deg) scale(1,1);}
+	48.00% {transform: translate3D(9.95px,368.04px,0.00px) rotate(124.12deg) scale(1,1);}
+	48.40% {transform: translate3D(9.98px,376.21px,0.00px) rotate(125.84deg) scale(1,1);}
+	48.80% {transform: translate3D(10.00px,382.49px,0.00px) rotate(127.56deg) scale(1,1);}
+	49.20% {transform: translate3D(10.00px,386.55px,0.00px) rotate(129.28deg) scale(1,1);}
+	49.60% {transform: translate3D(10.00px,388.02px,0.00px) rotate(131.00deg) scale(1,1);}
+	50.00% {transform: translate3D(9.77px,405.42px,0.00px) rotate(128.40deg) scale(1,1);}
+	50.40% {transform: translate3D(9.02px,424.87px,0.00px) rotate(125.80deg) scale(1,1);}
+	50.80% {transform: translate3D(7.75px,445.22px,0.00px) rotate(123.20deg) scale(1,1);}
+	51.20% {transform: translate3D(6.02px,465.98px,0.00px) rotate(120.60deg) scale(1,1);}
+	51.60% {transform: translate3D(3.90px,486.86px,0.00px) rotate(118.00deg) scale(1,1);}
+	52.00% {transform: translate3D(1.48px,507.68px,0.00px) rotate(115.40deg) scale(1,1);}
+	52.40% {transform: translate3D(-1.16px,528.32px,0.00px) rotate(112.80deg) scale(1,1);}
+	52.80% {transform: translate3D(-3.92px,548.68px,0.00px) rotate(110.20deg) scale(1,1);}
+	53.20% {transform: translate3D(-6.75px,568.69px,0.00px) rotate(107.60deg) scale(1,1);}
+	53.60% {transform: translate3D(-9.57px,588.28px,0.00px) rotate(105.00deg) scale(1,1);}
+	54.00% {transform: translate3D(-12.32px,607.40px,0.00px) rotate(102.40deg) scale(1,1);}
+	54.40% {transform: translate3D(-14.95px,625.97px,0.00px) rotate(99.80deg) scale(1,1);}
+	54.80% {transform: translate3D(-17.41px,643.94px,0.00px) rotate(97.20deg) scale(1,1);}
+	55.20% {transform: translate3D(-19.66px,661.24px,0.00px) rotate(94.60deg) scale(1,1);}
+	55.60% {transform: translate3D(-21.67px,677.79px,0.00px) rotate(92.00deg) scale(1,1);}
+	56.00% {transform: translate3D(-23.43px,693.52px,0.00px) rotate(89.40deg) scale(1,1);}
+	56.40% {transform: translate3D(-24.91px,708.33px,0.00px) rotate(86.80deg) scale(1,1);}
+	56.80% {transform: translate3D(-26.13px,722.11px,0.00px) rotate(84.20deg) scale(1,1);}
+	57.20% {transform: translate3D(-27.08px,734.74px,0.00px) rotate(81.60deg) scale(1,1);}
+	57.60% {transform: translate3D(-27.79px,746.08px,0.00px) rotate(79.00deg) scale(1,1);}
+	58.00% {transform: translate3D(-28.28px,755.96px,0.00px) rotate(76.40deg) scale(1,1);}
+	58.40% {transform: translate3D(-28.60px,764.17px,0.00px) rotate(73.80deg) scale(1,1);}
+	58.80% {transform: translate3D(-28.78px,770.47px,0.00px) rotate(71.20deg) scale(1,1);}
+	59.20% {transform: translate3D(-28.87px,774.55px,0.00px) rotate(68.60deg) scale(1,1);}
+	59.60% {transform: translate3D(-28.90px,776.02px,0.00px) rotate(66.00deg) scale(1,1);}
+	60.00% {transform: translate3D(-29.07px,793.40px,0.00px) rotate(63.36deg) scale(1,1);}
+	60.40% {transform: translate3D(-28.99px,812.81px,0.00px) rotate(60.72deg) scale(1,1);}
+	60.80% {transform: translate3D(-28.61px,833.15px,0.00px) rotate(58.08deg) scale(1,1);}
+	61.20% {transform: translate3D(-27.92px,853.92px,0.00px) rotate(55.44deg) scale(1,1);}
+	61.60% {transform: translate3D(-26.95px,874.83px,0.00px) rotate(52.80deg) scale(1,1);}
+	62.00% {transform: translate3D(-25.72px,895.71px,0.00px) rotate(50.16deg) scale(1,1);}
+	62.40% {transform: translate3D(-24.25px,916.42px,0.00px) rotate(47.52deg) scale(1,1);}
+	62.80% {transform: translate3D(-22.58px,936.85px,0.00px) rotate(44.88deg) scale(1,1);}
+	63.20% {transform: translate3D(-20.75px,956.93px,0.00px) rotate(42.24deg) scale(1,1);}
+	63.60% {transform: translate3D(-18.79px,976.58px,0.00px) rotate(39.60deg) scale(1,1);}
+	64.00% {transform: translate3D(-16.75px,995.74px,0.00px) rotate(36.96deg) scale(1,1);}
+	64.40% {transform: translate3D(-14.65px,1014.34px,0.00px) rotate(34.32deg) scale(1,1);}
+	64.80% {transform: translate3D(-12.56px,1032.31px,0.00px) rotate(31.68deg) scale(1,1);}
+	65.20% {transform: translate3D(-10.50px,1049.58px,0.00px) rotate(29.04deg) scale(1,1);}
+	65.60% {transform: translate3D(-8.53px,1066.11px,0.00px) rotate(26.40deg) scale(1,1);}
+	66.00% {transform: translate3D(-6.68px,1081.79px,0.00px) rotate(23.76deg) scale(1,1);}
+	66.40% {transform: translate3D(-5.00px,1096.54px,0.00px) rotate(21.12deg) scale(1,1);}
+	66.80% {transform: translate3D(-3.52px,1110.26px,0.00px) rotate(18.48deg) scale(1,1);}
+	67.20% {transform: translate3D(-2.30px,1122.84px,0.00px) rotate(15.84deg) scale(1,1);}
+	67.60% {transform: translate3D(-1.34px,1134.14px,0.00px) rotate(13.20deg) scale(1,1);}
+	68.00% {transform: translate3D(-0.67px,1143.98px,0.00px) rotate(10.56deg) scale(1,1);}
+	68.40% {transform: translate3D(-0.25px,1152.17px,0.00px) rotate(7.92deg) scale(1,1);}
+	68.80% {transform: translate3D(-0.06px,1158.46px,0.00px) rotate(5.28deg) scale(1,1);}
+	69.20% {transform: translate3D(-0.00px,1162.54px,0.00px) rotate(2.64deg) scale(1,1);}
+	69.60% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class9{
+    left: 287.50px;
+    top: -378.00px;
+    width: 235px;
+    height: 139px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(-313.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG9{
+    background: url("imgs/%E5%8F%B6%E5%AD%90%20%E6%8B%B7%E8%B4%9D%205.png");
+}
+.BX_Ani9{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey9 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey9{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(-313.00deg) scale(1,1);}
+	27.60% {transform: translate3D(0.29px,17.33px,0.00px) rotate(-308.83deg) scale(1,1);}
+	28.00% {transform: translate3D(1.08px,36.69px,0.00px) rotate(-304.65deg) scale(1,1);}
+	28.40% {transform: translate3D(2.21px,56.96px,0.00px) rotate(-300.48deg) scale(1,1);}
+	28.80% {transform: translate3D(3.53px,77.65px,0.00px) rotate(-296.31deg) scale(1,1);}
+	29.20% {transform: translate3D(4.95px,98.50px,0.00px) rotate(-292.13deg) scale(1,1);}
+	29.60% {transform: translate3D(6.40px,119.32px,0.00px) rotate(-287.96deg) scale(1,1);}
+	30.00% {transform: translate3D(7.83px,139.97px,0.00px) rotate(-283.79deg) scale(1,1);}
+	30.40% {transform: translate3D(9.22px,160.39px,0.00px) rotate(-279.61deg) scale(1,1);}
+	30.80% {transform: translate3D(10.53px,180.47px,0.00px) rotate(-275.44deg) scale(1,1);}
+	31.20% {transform: translate3D(11.75px,200.14px,0.00px) rotate(-271.27deg) scale(1,1);}
+	31.60% {transform: translate3D(12.86px,219.33px,0.00px) rotate(-267.09deg) scale(1,1);}
+	32.00% {transform: translate3D(13.86px,237.97px,0.00px) rotate(-262.92deg) scale(1,1);}
+	32.40% {transform: translate3D(14.74px,256.00px,0.00px) rotate(-258.75deg) scale(1,1);}
+	32.80% {transform: translate3D(15.50px,273.35px,0.00px) rotate(-254.57deg) scale(1,1);}
+	33.20% {transform: translate3D(16.14px,289.94px,0.00px) rotate(-250.40deg) scale(1,1);}
+	33.60% {transform: translate3D(16.67px,305.68px,0.00px) rotate(-246.23deg) scale(1,1);}
+	34.00% {transform: translate3D(17.10px,320.48px,0.00px) rotate(-242.05deg) scale(1,1);}
+	34.40% {transform: translate3D(17.42px,334.25px,0.00px) rotate(-237.88deg) scale(1,1);}
+	34.80% {transform: translate3D(17.66px,346.85px,0.00px) rotate(-233.71deg) scale(1,1);}
+	35.20% {transform: translate3D(17.82px,358.16px,0.00px) rotate(-229.53deg) scale(1,1);}
+	35.60% {transform: translate3D(17.92px,368.00px,0.00px) rotate(-225.36deg) scale(1,1);}
+	36.00% {transform: translate3D(17.97px,376.19px,0.00px) rotate(-221.19deg) scale(1,1);}
+	36.40% {transform: translate3D(17.99px,382.47px,0.00px) rotate(-217.01deg) scale(1,1);}
+	36.80% {transform: translate3D(18.00px,386.54px,0.00px) rotate(-212.84deg) scale(1,1);}
+	37.20% {transform: translate3D(18.00px,388.00px,0.00px) rotate(-208.67deg) scale(1,1);}
+	37.60% {transform: translate3D(17.78px,405.40px,0.00px) rotate(-204.49deg) scale(1,1);}
+	38.00% {transform: translate3D(17.06px,424.86px,0.00px) rotate(-200.32deg) scale(1,1);}
+	38.40% {transform: translate3D(15.84px,445.22px,0.00px) rotate(-196.15deg) scale(1,1);}
+	38.80% {transform: translate3D(14.17px,465.98px,0.00px) rotate(-191.97deg) scale(1,1);}
+	39.20% {transform: translate3D(12.12px,486.87px,0.00px) rotate(-187.80deg) scale(1,1);}
+	39.60% {transform: translate3D(9.78px,507.70px,0.00px) rotate(-183.63deg) scale(1,1);}
+	40.00% {transform: translate3D(7.23px,528.35px,0.00px) rotate(-179.45deg) scale(1,1);}
+	40.40% {transform: translate3D(4.53px,548.72px,0.00px) rotate(-175.28deg) scale(1,1);}
+	40.80% {transform: translate3D(1.77px,568.74px,0.00px) rotate(-171.11deg) scale(1,1);}
+	41.20% {transform: translate3D(-1.00px,588.34px,0.00px) rotate(-166.93deg) scale(1,1);}
+	41.60% {transform: translate3D(-3.71px,607.46px,0.00px) rotate(-162.76deg) scale(1,1);}
+	42.00% {transform: translate3D(-6.31px,626.04px,0.00px) rotate(-158.59deg) scale(1,1);}
+	42.40% {transform: translate3D(-8.76px,644.01px,0.00px) rotate(-154.41deg) scale(1,1);}
+	42.80% {transform: translate3D(-11.03px,661.31px,0.00px) rotate(-150.24deg) scale(1,1);}
+	43.20% {transform: translate3D(-13.07px,677.86px,0.00px) rotate(-146.07deg) scale(1,1);}
+	43.60% {transform: translate3D(-14.88px,693.58px,0.00px) rotate(-141.89deg) scale(1,1);}
+	44.00% {transform: translate3D(-16.43px,708.38px,0.00px) rotate(-137.72deg) scale(1,1);}
+	44.40% {transform: translate3D(-17.72px,722.16px,0.00px) rotate(-133.55deg) scale(1,1);}
+	44.80% {transform: translate3D(-18.77px,734.78px,0.00px) rotate(-129.37deg) scale(1,1);}
+	45.20% {transform: translate3D(-19.57px,746.11px,0.00px) rotate(-125.20deg) scale(1,1);}
+	45.60% {transform: translate3D(-20.17px,755.99px,0.00px) rotate(-121.03deg) scale(1,1);}
+	46.00% {transform: translate3D(-20.57px,764.20px,0.00px) rotate(-116.85deg) scale(1,1);}
+	46.40% {transform: translate3D(-20.83px,770.50px,0.00px) rotate(-112.68deg) scale(1,1);}
+	46.80% {transform: translate3D(-20.97px,774.58px,0.00px) rotate(-108.51deg) scale(1,1);}
+	47.20% {transform: translate3D(-21.02px,776.04px,0.00px) rotate(-104.33deg) scale(1,1);}
+	47.60% {transform: translate3D(-21.43px,793.39px,0.00px) rotate(-100.16deg) scale(1,1);}
+	48.00% {transform: translate3D(-21.65px,812.78px,0.00px) rotate(-95.99deg) scale(1,1);}
+	48.40% {transform: translate3D(-21.62px,833.09px,0.00px) rotate(-91.81deg) scale(1,1);}
+	48.80% {transform: translate3D(-21.32px,853.83px,0.00px) rotate(-87.64deg) scale(1,1);}
+	49.20% {transform: translate3D(-20.77px,874.73px,0.00px) rotate(-83.47deg) scale(1,1);}
+	49.60% {transform: translate3D(-19.97px,895.60px,0.00px) rotate(-79.29deg) scale(1,1);}
+	50.00% {transform: translate3D(-18.97px,916.30px,0.00px) rotate(-75.12deg) scale(1,1);}
+	50.40% {transform: translate3D(-17.77px,936.73px,0.00px) rotate(-70.95deg) scale(1,1);}
+	50.80% {transform: translate3D(-16.42px,956.81px,0.00px) rotate(-66.77deg) scale(1,1);}
+	51.20% {transform: translate3D(-14.94px,976.48px,0.00px) rotate(-62.60deg) scale(1,1);}
+	51.60% {transform: translate3D(-13.37px,995.66px,0.00px) rotate(-58.43deg) scale(1,1);}
+	52.00% {transform: translate3D(-11.75px,1014.28px,0.00px) rotate(-54.25deg) scale(1,1);}
+	52.40% {transform: translate3D(-10.10px,1032.27px,0.00px) rotate(-50.08deg) scale(1,1);}
+	52.80% {transform: translate3D(-8.47px,1049.57px,0.00px) rotate(-45.91deg) scale(1,1);}
+	53.20% {transform: translate3D(-6.90px,1066.11px,0.00px) rotate(-41.73deg) scale(1,1);}
+	53.60% {transform: translate3D(-5.42px,1081.81px,0.00px) rotate(-37.56deg) scale(1,1);}
+	54.00% {transform: translate3D(-4.06px,1096.57px,0.00px) rotate(-33.39deg) scale(1,1);}
+	54.40% {transform: translate3D(-2.87px,1110.29px,0.00px) rotate(-29.21deg) scale(1,1);}
+	54.80% {transform: translate3D(-1.88px,1122.87px,0.00px) rotate(-25.04deg) scale(1,1);}
+	55.20% {transform: translate3D(-1.10px,1134.17px,0.00px) rotate(-20.87deg) scale(1,1);}
+	55.60% {transform: translate3D(-0.54px,1144.01px,0.00px) rotate(-16.69deg) scale(1,1);}
+	56.00% {transform: translate3D(-0.21px,1152.19px,0.00px) rotate(-12.52deg) scale(1,1);}
+	56.40% {transform: translate3D(-0.05px,1158.47px,0.00px) rotate(-8.35deg) scale(1,1);}
+	56.80% {transform: translate3D(-0.00px,1162.54px,0.00px) rotate(-4.17deg) scale(1,1);}
+	57.20% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class8{
+    left: 403.25px;
+    top: -1164.38px;
+    width: 220px;
+    height: 191px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(69.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG8{
+    background: url("imgs/%E5%8F%B6%E5%AD%90%20%E6%8B%B7%E8%B4%9D%206.png");
+}
+.BX_Ani8{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey8 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey8{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(69.00deg) scale(1,1);}
+	33.60% {transform: translate3D(-0.77px,17.35px,0.00px) rotate(67.64deg) scale(1,1);}
+	34.00% {transform: translate3D(-0.10px,36.76px,0.00px) rotate(66.28deg) scale(1,1);}
+	34.40% {transform: translate3D(1.57px,57.05px,0.00px) rotate(64.92deg) scale(1,1);}
+	34.80% {transform: translate3D(3.83px,77.70px,0.00px) rotate(63.56deg) scale(1,1);}
+	35.20% {transform: translate3D(6.39px,98.49px,0.00px) rotate(62.20deg) scale(1,1);}
+	35.60% {transform: translate3D(9.07px,119.24px,0.00px) rotate(60.84deg) scale(1,1);}
+	36.00% {transform: translate3D(11.71px,139.83px,0.00px) rotate(59.48deg) scale(1,1);}
+	36.40% {transform: translate3D(14.21px,160.18px,0.00px) rotate(58.12deg) scale(1,1);}
+	36.80% {transform: translate3D(16.50px,180.22px,0.00px) rotate(56.76deg) scale(1,1);}
+	37.20% {transform: translate3D(18.53px,199.87px,0.00px) rotate(55.40deg) scale(1,1);}
+	37.60% {transform: translate3D(20.27px,219.06px,0.00px) rotate(54.04deg) scale(1,1);}
+	38.00% {transform: translate3D(21.69px,237.72px,0.00px) rotate(52.68deg) scale(1,1);}
+	38.40% {transform: translate3D(22.79px,255.79px,0.00px) rotate(51.32deg) scale(1,1);}
+	38.80% {transform: translate3D(23.56px,273.18px,0.00px) rotate(49.96deg) scale(1,1);}
+	39.20% {transform: translate3D(24.02px,289.82px,0.00px) rotate(48.60deg) scale(1,1);}
+	39.60% {transform: translate3D(24.19px,305.61px,0.00px) rotate(47.24deg) scale(1,1);}
+	40.00% {transform: translate3D(24.10px,320.45px,0.00px) rotate(45.88deg) scale(1,1);}
+	40.40% {transform: translate3D(23.79px,334.25px,0.00px) rotate(44.52deg) scale(1,1);}
+	40.80% {transform: translate3D(23.31px,346.88px,0.00px) rotate(43.16deg) scale(1,1);}
+	41.20% {transform: translate3D(22.71px,358.20px,0.00px) rotate(41.80deg) scale(1,1);}
+	41.60% {transform: translate3D(22.05px,368.04px,0.00px) rotate(40.44deg) scale(1,1);}
+	42.00% {transform: translate3D(21.41px,376.22px,0.00px) rotate(39.08deg) scale(1,1);}
+	42.40% {transform: translate3D(20.86px,382.49px,0.00px) rotate(37.72deg) scale(1,1);}
+	42.80% {transform: translate3D(20.48px,386.56px,0.00px) rotate(36.36deg) scale(1,1);}
+	43.20% {transform: translate3D(20.33px,388.02px,0.00px) rotate(35.00deg) scale(1,1);}
+	43.60% {transform: translate3D(17.82px,406.49px,0.00px) rotate(34.28deg) scale(1,1);}
+	44.00% {transform: translate3D(13.62px,426.90px,0.00px) rotate(33.56deg) scale(1,1);}
+	44.40% {transform: translate3D(7.92px,447.98px,0.00px) rotate(32.84deg) scale(1,1);}
+	44.80% {transform: translate3D(0.98px,469.18px,0.00px) rotate(32.12deg) scale(1,1);}
+	45.20% {transform: translate3D(-6.92px,490.23px,0.00px) rotate(31.40deg) scale(1,1);}
+	45.60% {transform: translate3D(-15.50px,510.98px,0.00px) rotate(30.68deg) scale(1,1);}
+	46.00% {transform: translate3D(-24.54px,531.35px,0.00px) rotate(29.96deg) scale(1,1);}
+	46.40% {transform: translate3D(-33.84px,551.29px,0.00px) rotate(29.24deg) scale(1,1);}
+	46.80% {transform: translate3D(-43.22px,570.80px,0.00px) rotate(28.52deg) scale(1,1);}
+	47.20% {transform: translate3D(-52.55px,589.84px,0.00px) rotate(27.80deg) scale(1,1);}
+	47.60% {transform: translate3D(-61.68px,608.40px,0.00px) rotate(27.08deg) scale(1,1);}
+	48.00% {transform: translate3D(-70.50px,626.45px,0.00px) rotate(26.36deg) scale(1,1);}
+	48.40% {transform: translate3D(-78.90px,643.97px,0.00px) rotate(25.64deg) scale(1,1);}
+	48.80% {transform: translate3D(-86.80px,660.90px,0.00px) rotate(24.92deg) scale(1,1);}
+	49.20% {transform: translate3D(-94.09px,677.21px,0.00px) rotate(24.20deg) scale(1,1);}
+	49.60% {transform: translate3D(-100.73px,692.80px,0.00px) rotate(23.48deg) scale(1,1);}
+	50.00% {transform: translate3D(-106.65px,707.60px,0.00px) rotate(22.76deg) scale(1,1);}
+	50.40% {transform: translate3D(-111.81px,721.49px,0.00px) rotate(22.04deg) scale(1,1);}
+	50.80% {transform: translate3D(-116.20px,734.33px,0.00px) rotate(21.32deg) scale(1,1);}
+	51.20% {transform: translate3D(-119.81px,745.95px,0.00px) rotate(20.60deg) scale(1,1);}
+	51.60% {transform: translate3D(-122.68px,756.16px,0.00px) rotate(19.88deg) scale(1,1);}
+	52.00% {transform: translate3D(-124.83px,764.69px,0.00px) rotate(19.16deg) scale(1,1);}
+	52.40% {transform: translate3D(-126.34px,771.27px,0.00px) rotate(18.44deg) scale(1,1);}
+	52.80% {transform: translate3D(-127.24px,775.55px,0.00px) rotate(17.72deg) scale(1,1);}
+	53.20% {transform: translate3D(-127.54px,777.09px,0.00px) rotate(17.00deg) scale(1,1);}
+	53.60% {transform: translate3D(-130.65px,794.16px,0.00px) rotate(16.32deg) scale(1,1);}
+	54.00% {transform: translate3D(-133.50px,813.34px,0.00px) rotate(15.64deg) scale(1,1);}
+	54.40% {transform: translate3D(-135.81px,833.53px,0.00px) rotate(14.96deg) scale(1,1);}
+	54.80% {transform: translate3D(-137.47px,854.22px,0.00px) rotate(14.28deg) scale(1,1);}
+	55.20% {transform: translate3D(-138.47px,875.12px,0.00px) rotate(13.60deg) scale(1,1);}
+	55.60% {transform: translate3D(-138.82px,896.01px,0.00px) rotate(12.92deg) scale(1,1);}
+	56.00% {transform: translate3D(-138.57px,916.75px,0.00px) rotate(12.24deg) scale(1,1);}
+	56.40% {transform: translate3D(-137.78px,937.21px,0.00px) rotate(11.56deg) scale(1,1);}
+	56.80% {transform: translate3D(-136.52px,957.32px,0.00px) rotate(10.88deg) scale(1,1);}
+	57.20% {transform: translate3D(-134.88px,976.97px,0.00px) rotate(10.20deg) scale(1,1);}
+	57.60% {transform: translate3D(-132.92px,996.12px,0.00px) rotate(9.52deg) scale(1,1);}
+	58.00% {transform: translate3D(-130.74px,1014.69px,0.00px) rotate(8.84deg) scale(1,1);}
+	58.40% {transform: translate3D(-128.43px,1032.61px,0.00px) rotate(8.16deg) scale(1,1);}
+	58.80% {transform: translate3D(-126.08px,1049.84px,0.00px) rotate(7.48deg) scale(1,1);}
+	59.20% {transform: translate3D(-123.77px,1066.30px,0.00px) rotate(6.80deg) scale(1,1);}
+	59.60% {transform: translate3D(-121.59px,1081.92px,0.00px) rotate(6.12deg) scale(1,1);}
+	60.00% {transform: translate3D(-119.63px,1096.62px,0.00px) rotate(5.44deg) scale(1,1);}
+	60.40% {transform: translate3D(-117.98px,1110.31px,0.00px) rotate(4.76deg) scale(1,1);}
+	60.80% {transform: translate3D(-116.70px,1122.87px,0.00px) rotate(4.08deg) scale(1,1);}
+	61.20% {transform: translate3D(-115.84px,1134.16px,0.00px) rotate(3.40deg) scale(1,1);}
+	61.60% {transform: translate3D(-115.40px,1144.01px,0.00px) rotate(2.72deg) scale(1,1);}
+	62.00% {transform: translate3D(-115.36px,1152.20px,0.00px) rotate(2.04deg) scale(1,1);}
+	62.40% {transform: translate3D(-115.58px,1158.49px,0.00px) rotate(1.36deg) scale(1,1);}
+	62.80% {transform: translate3D(-115.86px,1162.55px,0.00px) rotate(0.68deg) scale(1,1);}
+	63.20% {transform: translate3D(-116.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(-116.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(-116.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class7{
+    left: 371.00px;
+    top: -780.00px;
+    width: 232px;
+    height: 159px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(-8.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG7{
+    background: url("imgs/%E5%8F%B6%E5%AD%90%20%E6%8B%B7%E8%B4%9D%207.png");
+}
+.BX_Ani7{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey7 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey7{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(-8.00deg) scale(1,1);}
+	30.80% {transform: translate3D(3.57px,19.06px,0.00px) rotate(-6.88deg) scale(1,1);}
+	31.20% {transform: translate3D(12.33px,38.98px,0.00px) rotate(-5.76deg) scale(1,1);}
+	31.60% {transform: translate3D(23.78px,58.71px,0.00px) rotate(-4.64deg) scale(1,1);}
+	32.00% {transform: translate3D(36.61px,78.18px,0.00px) rotate(-3.52deg) scale(1,1);}
+	32.40% {transform: translate3D(50.07px,97.42px,0.00px) rotate(-2.40deg) scale(1,1);}
+	32.80% {transform: translate3D(63.72px,116.49px,0.00px) rotate(-1.28deg) scale(1,1);}
+	33.20% {transform: translate3D(77.27px,135.42px,0.00px) rotate(-0.16deg) scale(1,1);}
+	33.60% {transform: translate3D(90.50px,154.23px,0.00px) rotate(0.96deg) scale(1,1);}
+	34.00% {transform: translate3D(103.23px,172.92px,0.00px) rotate(2.08deg) scale(1,1);}
+	34.40% {transform: translate3D(115.32px,191.48px,0.00px) rotate(3.20deg) scale(1,1);}
+	34.80% {transform: translate3D(126.65px,209.89px,0.00px) rotate(4.32deg) scale(1,1);}
+	35.20% {transform: translate3D(137.10px,228.09px,0.00px) rotate(5.44deg) scale(1,1);}
+	35.60% {transform: translate3D(146.59px,246.03px,0.00px) rotate(6.56deg) scale(1,1);}
+	36.00% {transform: translate3D(155.03px,263.63px,0.00px) rotate(7.68deg) scale(1,1);}
+	36.40% {transform: translate3D(162.38px,280.78px,0.00px) rotate(8.80deg) scale(1,1);}
+	36.80% {transform: translate3D(168.59px,297.36px,0.00px) rotate(9.92deg) scale(1,1);}
+	37.20% {transform: translate3D(173.67px,313.21px,0.00px) rotate(11.04deg) scale(1,1);}
+	37.60% {transform: translate3D(177.66px,328.17px,0.00px) rotate(12.16deg) scale(1,1);}
+	38.00% {transform: translate3D(180.61px,342.03px,0.00px) rotate(13.28deg) scale(1,1);}
+	38.40% {transform: translate3D(182.66px,354.58px,0.00px) rotate(14.40deg) scale(1,1);}
+	38.80% {transform: translate3D(183.93px,365.57px,0.00px) rotate(15.52deg) scale(1,1);}
+	39.20% {transform: translate3D(184.62px,374.74px,0.00px) rotate(16.64deg) scale(1,1);}
+	39.60% {transform: translate3D(184.92px,381.78px,0.00px) rotate(17.76deg) scale(1,1);}
+	40.00% {transform: translate3D(184.99px,386.36px,0.00px) rotate(18.88deg) scale(1,1);}
+	40.40% {transform: translate3D(185.00px,388.00px,0.00px) rotate(20.00deg) scale(1,1);}
+	40.80% {transform: translate3D(182.68px,409.84px,0.00px) rotate(18.28deg) scale(1,1);}
+	41.20% {transform: translate3D(175.48px,433.33px,0.00px) rotate(16.56deg) scale(1,1);}
+	41.60% {transform: translate3D(164.27px,456.52px,0.00px) rotate(14.84deg) scale(1,1);}
+	42.00% {transform: translate3D(150.28px,478.82px,0.00px) rotate(13.12deg) scale(1,1);}
+	42.40% {transform: translate3D(134.47px,500.11px,0.00px) rotate(11.40deg) scale(1,1);}
+	42.80% {transform: translate3D(117.52px,520.46px,0.00px) rotate(9.68deg) scale(1,1);}
+	43.20% {transform: translate3D(99.92px,540.00px,0.00px) rotate(7.96deg) scale(1,1);}
+	43.60% {transform: translate3D(82.03px,558.83px,0.00px) rotate(6.24deg) scale(1,1);}
+	44.00% {transform: translate3D(64.12px,577.04px,0.00px) rotate(4.52deg) scale(1,1);}
+	44.40% {transform: translate3D(46.41px,594.71px,0.00px) rotate(2.80deg) scale(1,1);}
+	44.80% {transform: translate3D(29.09px,611.90px,0.00px) rotate(1.08deg) scale(1,1);}
+	45.20% {transform: translate3D(12.31px,628.66px,0.00px) rotate(-0.64deg) scale(1,1);}
+	45.60% {transform: translate3D(-3.76px,645.00px,0.00px) rotate(-2.36deg) scale(1,1);}
+	46.00% {transform: translate3D(-18.98px,660.94px,0.00px) rotate(-4.08deg) scale(1,1);}
+	46.40% {transform: translate3D(-33.23px,676.47px,0.00px) rotate(-5.80deg) scale(1,1);}
+	46.80% {transform: translate3D(-46.35px,691.57px,0.00px) rotate(-7.52deg) scale(1,1);}
+	47.20% {transform: translate3D(-58.21px,706.17px,0.00px) rotate(-9.24deg) scale(1,1);}
+	47.60% {transform: translate3D(-68.69px,720.16px,0.00px) rotate(-10.96deg) scale(1,1);}
+	48.00% {transform: translate3D(-77.68px,733.41px,0.00px) rotate(-12.68deg) scale(1,1);}
+	48.40% {transform: translate3D(-85.11px,745.70px,0.00px) rotate(-14.40deg) scale(1,1);}
+	48.80% {transform: translate3D(-90.95px,756.74px,0.00px) rotate(-16.12deg) scale(1,1);}
+	49.20% {transform: translate3D(-95.27px,766.19px,0.00px) rotate(-17.84deg) scale(1,1);}
+	49.60% {transform: translate3D(-98.19px,773.61px,0.00px) rotate(-19.56deg) scale(1,1);}
+	50.00% {transform: translate3D(-99.86px,778.49px,0.00px) rotate(-21.28deg) scale(1,1);}
+	50.40% {transform: translate3D(-100.42px,780.26px,0.00px) rotate(-23.00deg) scale(1,1);}
+	50.80% {transform: translate3D(-105.12px,797.82px,0.00px) rotate(-22.08deg) scale(1,1);}
+	51.20% {transform: translate3D(-108.79px,817.79px,0.00px) rotate(-21.16deg) scale(1,1);}
+	51.60% {transform: translate3D(-110.80px,838.98px,0.00px) rotate(-20.24deg) scale(1,1);}
+	52.00% {transform: translate3D(-110.96px,860.72px,0.00px) rotate(-19.32deg) scale(1,1);}
+	52.40% {transform: translate3D(-109.28px,882.57px,0.00px) rotate(-18.40deg) scale(1,1);}
+	52.80% {transform: translate3D(-105.91px,904.19px,0.00px) rotate(-17.48deg) scale(1,1);}
+	53.20% {transform: translate3D(-101.07px,925.36px,0.00px) rotate(-16.56deg) scale(1,1);}
+	53.60% {transform: translate3D(-95.01px,945.94px,0.00px) rotate(-15.64deg) scale(1,1);}
+	54.00% {transform: translate3D(-87.98px,965.84px,0.00px) rotate(-14.72deg) scale(1,1);}
+	54.40% {transform: translate3D(-80.24px,985.00px,0.00px) rotate(-13.80deg) scale(1,1);}
+	54.80% {transform: translate3D(-72.01px,1003.40px,0.00px) rotate(-12.88deg) scale(1,1);}
+	55.20% {transform: translate3D(-63.50px,1021.04px,0.00px) rotate(-11.96deg) scale(1,1);}
+	55.60% {transform: translate3D(-54.89px,1037.91px,0.00px) rotate(-11.04deg) scale(1,1);}
+	56.00% {transform: translate3D(-46.38px,1054.01px,0.00px) rotate(-10.12deg) scale(1,1);}
+	56.40% {transform: translate3D(-38.14px,1069.35px,0.00px) rotate(-9.20deg) scale(1,1);}
+	56.80% {transform: translate3D(-30.33px,1083.90px,0.00px) rotate(-8.28deg) scale(1,1);}
+	57.20% {transform: translate3D(-23.11px,1097.67px,0.00px) rotate(-7.36deg) scale(1,1);}
+	57.60% {transform: translate3D(-16.66px,1110.59px,0.00px) rotate(-6.44deg) scale(1,1);}
+	58.00% {transform: translate3D(-11.13px,1122.60px,0.00px) rotate(-5.52deg) scale(1,1);}
+	58.40% {transform: translate3D(-6.67px,1133.59px,0.00px) rotate(-4.60deg) scale(1,1);}
+	58.80% {transform: translate3D(-3.40px,1143.39px,0.00px) rotate(-3.68deg) scale(1,1);}
+	59.20% {transform: translate3D(-1.33px,1151.71px,0.00px) rotate(-2.76deg) scale(1,1);}
+	59.60% {transform: translate3D(-0.32px,1158.21px,0.00px) rotate(-1.84deg) scale(1,1);}
+	60.00% {transform: translate3D(-0.02px,1162.47px,0.00px) rotate(-0.92deg) scale(1,1);}
+	60.40% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class6{
+    left: 1727.00px;
+    top: -780.00px;
+    width: 193px;
+    height: 196px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(-121.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG6{
+    background: url("imgs/%E5%8F%B6%E5%AD%90%20%E6%8B%B7%E8%B4%9D%208.png");
+}
+.BX_Ani6{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey6 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey6{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(-121.00deg) scale(1,1);}
+	35.20% {transform: translate3D(0.00px,16.25px,0.00px) rotate(-119.39deg) scale(1,1);}
+	35.60% {transform: translate3D(-0.00px,33.67px,0.00px) rotate(-117.77deg) scale(1,1);}
+	36.00% {transform: translate3D(0.00px,51.93px,0.00px) rotate(-116.16deg) scale(1,1);}
+	36.40% {transform: translate3D(0.00px,70.82px,0.00px) rotate(-114.55deg) scale(1,1);}
+	36.80% {transform: translate3D(0.00px,90.21px,0.00px) rotate(-112.93deg) scale(1,1);}
+	37.20% {transform: translate3D(0.00px,109.97px,0.00px) rotate(-111.32deg) scale(1,1);}
+	37.60% {transform: translate3D(-0.00px,130.03px,0.00px) rotate(-109.71deg) scale(1,1);}
+	38.00% {transform: translate3D(-0.00px,150.33px,0.00px) rotate(-108.09deg) scale(1,1);}
+	38.40% {transform: translate3D(-0.00px,170.81px,0.00px) rotate(-106.48deg) scale(1,1);}
+	38.80% {transform: translate3D(-0.00px,191.42px,0.00px) rotate(-104.87deg) scale(1,1);}
+	39.20% {transform: translate3D(0.00px,212.14px,0.00px) rotate(-103.25deg) scale(1,1);}
+	39.60% {transform: translate3D(0.00px,232.93px,0.00px) rotate(-101.64deg) scale(1,1);}
+	40.00% {transform: translate3D(-0.00px,253.78px,0.00px) rotate(-100.03deg) scale(1,1);}
+	40.40% {transform: translate3D(0.00px,274.65px,0.00px) rotate(-98.41deg) scale(1,1);}
+	40.80% {transform: translate3D(0.00px,295.53px,0.00px) rotate(-96.80deg) scale(1,1);}
+	41.20% {transform: translate3D(0.00px,316.39px,0.00px) rotate(-95.19deg) scale(1,1);}
+	41.60% {transform: translate3D(0.00px,337.24px,0.00px) rotate(-93.57deg) scale(1,1);}
+	42.00% {transform: translate3D(0.00px,358.06px,0.00px) rotate(-91.96deg) scale(1,1);}
+	42.40% {transform: translate3D(0.00px,378.81px,0.00px) rotate(-90.35deg) scale(1,1);}
+	42.80% {transform: translate3D(0.00px,399.50px,0.00px) rotate(-88.73deg) scale(1,1);}
+	43.20% {transform: translate3D(0.00px,420.11px,0.00px) rotate(-87.12deg) scale(1,1);}
+	43.60% {transform: translate3D(0.00px,440.63px,0.00px) rotate(-85.51deg) scale(1,1);}
+	44.00% {transform: translate3D(0.00px,461.06px,0.00px) rotate(-83.89deg) scale(1,1);}
+	44.40% {transform: translate3D(0.00px,481.39px,0.00px) rotate(-82.28deg) scale(1,1);}
+	44.80% {transform: translate3D(-0.00px,501.61px,0.00px) rotate(-80.67deg) scale(1,1);}
+	45.20% {transform: translate3D(-0.00px,521.71px,0.00px) rotate(-79.05deg) scale(1,1);}
+	45.60% {transform: translate3D(-0.00px,541.67px,0.00px) rotate(-77.44deg) scale(1,1);}
+	46.00% {transform: translate3D(0.00px,561.50px,0.00px) rotate(-75.83deg) scale(1,1);}
+	46.40% {transform: translate3D(0.00px,581.18px,0.00px) rotate(-74.21deg) scale(1,1);}
+	46.80% {transform: translate3D(0.00px,600.71px,0.00px) rotate(-72.60deg) scale(1,1);}
+	47.20% {transform: translate3D(0.00px,620.07px,0.00px) rotate(-70.99deg) scale(1,1);}
+	47.60% {transform: translate3D(0.00px,639.28px,0.00px) rotate(-69.37deg) scale(1,1);}
+	48.00% {transform: translate3D(0.00px,658.30px,0.00px) rotate(-67.76deg) scale(1,1);}
+	48.40% {transform: translate3D(0.00px,677.14px,0.00px) rotate(-66.15deg) scale(1,1);}
+	48.80% {transform: translate3D(-0.00px,695.80px,0.00px) rotate(-64.53deg) scale(1,1);}
+	49.20% {transform: translate3D(-0.00px,714.25px,0.00px) rotate(-62.92deg) scale(1,1);}
+	49.60% {transform: translate3D(0.00px,732.50px,0.00px) rotate(-61.31deg) scale(1,1);}
+	50.00% {transform: translate3D(0.00px,750.53px,0.00px) rotate(-59.69deg) scale(1,1);}
+	50.40% {transform: translate3D(0.00px,768.34px,0.00px) rotate(-58.08deg) scale(1,1);}
+	50.80% {transform: translate3D(0.00px,785.93px,0.00px) rotate(-56.47deg) scale(1,1);}
+	51.20% {transform: translate3D(0.00px,803.27px,0.00px) rotate(-54.85deg) scale(1,1);}
+	51.60% {transform: translate3D(0.00px,820.37px,0.00px) rotate(-53.24deg) scale(1,1);}
+	52.00% {transform: translate3D(0.00px,837.22px,0.00px) rotate(-51.63deg) scale(1,1);}
+	52.40% {transform: translate3D(0.00px,853.80px,0.00px) rotate(-50.01deg) scale(1,1);}
+	52.80% {transform: translate3D(0.00px,870.11px,0.00px) rotate(-48.40deg) scale(1,1);}
+	53.20% {transform: translate3D(0.00px,886.14px,0.00px) rotate(-46.79deg) scale(1,1);}
+	53.60% {transform: translate3D(0.00px,901.87px,0.00px) rotate(-45.17deg) scale(1,1);}
+	54.00% {transform: translate3D(0.00px,917.31px,0.00px) rotate(-43.56deg) scale(1,1);}
+	54.40% {transform: translate3D(0.00px,932.43px,0.00px) rotate(-41.95deg) scale(1,1);}
+	54.80% {transform: translate3D(-0.00px,947.23px,0.00px) rotate(-40.33deg) scale(1,1);}
+	55.20% {transform: translate3D(0.00px,961.70px,0.00px) rotate(-38.72deg) scale(1,1);}
+	55.60% {transform: translate3D(-0.00px,975.81px,0.00px) rotate(-37.11deg) scale(1,1);}
+	56.00% {transform: translate3D(0.00px,989.57px,0.00px) rotate(-35.49deg) scale(1,1);}
+	56.40% {transform: translate3D(0.00px,1002.96px,0.00px) rotate(-33.88deg) scale(1,1);}
+	56.80% {transform: translate3D(0.00px,1015.96px,0.00px) rotate(-32.27deg) scale(1,1);}
+	57.20% {transform: translate3D(0.00px,1028.56px,0.00px) rotate(-30.65deg) scale(1,1);}
+	57.60% {transform: translate3D(0.00px,1040.74px,0.00px) rotate(-29.04deg) scale(1,1);}
+	58.00% {transform: translate3D(0.00px,1052.49px,0.00px) rotate(-27.43deg) scale(1,1);}
+	58.40% {transform: translate3D(0.00px,1063.79px,0.00px) rotate(-25.81deg) scale(1,1);}
+	58.80% {transform: translate3D(-0.00px,1074.62px,0.00px) rotate(-24.20deg) scale(1,1);}
+	59.20% {transform: translate3D(0.00px,1084.97px,0.00px) rotate(-22.59deg) scale(1,1);}
+	59.60% {transform: translate3D(0.00px,1094.81px,0.00px) rotate(-20.97deg) scale(1,1);}
+	60.00% {transform: translate3D(-0.00px,1104.12px,0.00px) rotate(-19.36deg) scale(1,1);}
+	60.40% {transform: translate3D(-0.00px,1112.88px,0.00px) rotate(-17.75deg) scale(1,1);}
+	60.80% {transform: translate3D(0.00px,1121.06px,0.00px) rotate(-16.13deg) scale(1,1);}
+	61.20% {transform: translate3D(0.00px,1128.63px,0.00px) rotate(-14.52deg) scale(1,1);}
+	61.60% {transform: translate3D(0.00px,1135.58px,0.00px) rotate(-12.91deg) scale(1,1);}
+	62.00% {transform: translate3D(0.00px,1141.86px,0.00px) rotate(-11.29deg) scale(1,1);}
+	62.40% {transform: translate3D(0.00px,1147.44px,0.00px) rotate(-9.68deg) scale(1,1);}
+	62.80% {transform: translate3D(0.00px,1152.29px,0.00px) rotate(-8.07deg) scale(1,1);}
+	63.20% {transform: translate3D(0.00px,1156.36px,0.00px) rotate(-6.45deg) scale(1,1);}
+	63.60% {transform: translate3D(0.00px,1159.62px,0.00px) rotate(-4.84deg) scale(1,1);}
+	64.00% {transform: translate3D(-0.00px,1162.03px,0.00px) rotate(-3.23deg) scale(1,1);}
+	64.40% {transform: translate3D(0.00px,1163.50px,0.00px) rotate(-1.61deg) scale(1,1);}
+	64.80% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class5{
+    left: 952.00px;
+    top: -264.00px;
+    width: 283px;
+    height: 209px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(-209.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG5{
+    background: url("imgs/%E5%8F%B6%E5%AD%90%20%E6%8B%B7%E8%B4%9D.png");
+}
+.BX_Ani5{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey5 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey5{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(-209.00deg) scale(1,1);}
+	24.80% {transform: translate3D(-2.69px,20.63px,0.00px) rotate(-206.28deg) scale(1,1);}
+	25.20% {transform: translate3D(-9.02px,43.03px,0.00px) rotate(-203.56deg) scale(1,1);}
+	25.60% {transform: translate3D(-17.25px,66.02px,0.00px) rotate(-200.84deg) scale(1,1);}
+	26.00% {transform: translate3D(-26.45px,89.20px,0.00px) rotate(-198.12deg) scale(1,1);}
+	26.40% {transform: translate3D(-36.12px,112.38px,0.00px) rotate(-195.40deg) scale(1,1);}
+	26.80% {transform: translate3D(-45.95px,135.47px,0.00px) rotate(-192.68deg) scale(1,1);}
+	27.20% {transform: translate3D(-55.70px,158.39px,0.00px) rotate(-189.96deg) scale(1,1);}
+	27.60% {transform: translate3D(-65.22px,181.07px,0.00px) rotate(-187.24deg) scale(1,1);}
+	28.00% {transform: translate3D(-74.38px,203.46px,0.00px) rotate(-184.52deg) scale(1,1);}
+	28.40% {transform: translate3D(-83.07px,225.50px,0.00px) rotate(-181.80deg) scale(1,1);}
+	28.80% {transform: translate3D(-91.21px,247.14px,0.00px) rotate(-179.08deg) scale(1,1);}
+	29.20% {transform: translate3D(-98.73px,268.30px,0.00px) rotate(-176.36deg) scale(1,1);}
+	29.60% {transform: translate3D(-105.57px,288.90px,0.00px) rotate(-173.64deg) scale(1,1);}
+	30.00% {transform: translate3D(-111.68px,308.87px,0.00px) rotate(-170.92deg) scale(1,1);}
+	30.40% {transform: translate3D(-117.02px,328.10px,0.00px) rotate(-168.20deg) scale(1,1);}
+	30.80% {transform: translate3D(-121.57px,346.49px,0.00px) rotate(-165.48deg) scale(1,1);}
+	31.20% {transform: translate3D(-125.33px,363.90px,0.00px) rotate(-162.76deg) scale(1,1);}
+	31.60% {transform: translate3D(-128.32px,380.19px,0.00px) rotate(-160.04deg) scale(1,1);}
+	32.00% {transform: translate3D(-130.56px,395.19px,0.00px) rotate(-157.32deg) scale(1,1);}
+	32.40% {transform: translate3D(-132.14px,408.69px,0.00px) rotate(-154.60deg) scale(1,1);}
+	32.80% {transform: translate3D(-133.14px,420.49px,0.00px) rotate(-151.88deg) scale(1,1);}
+	33.20% {transform: translate3D(-133.69px,430.31px,0.00px) rotate(-149.16deg) scale(1,1);}
+	33.60% {transform: translate3D(-133.93px,437.86px,0.00px) rotate(-146.44deg) scale(1,1);}
+	34.00% {transform: translate3D(-134.00px,442.74px,0.00px) rotate(-143.72deg) scale(1,1);}
+	34.40% {transform: translate3D(-134.00px,444.50px,0.00px) rotate(-141.00deg) scale(1,1);}
+	34.80% {transform: translate3D(-132.57px,463.48px,0.00px) rotate(-137.32deg) scale(1,1);}
+	35.20% {transform: translate3D(-127.96px,484.25px,0.00px) rotate(-133.64deg) scale(1,1);}
+	35.60% {transform: translate3D(-120.48px,505.27px,0.00px) rotate(-129.96deg) scale(1,1);}
+	36.00% {transform: translate3D(-110.80px,525.88px,0.00px) rotate(-126.28deg) scale(1,1);}
+	36.40% {transform: translate3D(-99.56px,545.91px,0.00px) rotate(-122.60deg) scale(1,1);}
+	36.80% {transform: translate3D(-87.29px,565.29px,0.00px) rotate(-118.92deg) scale(1,1);}
+	37.20% {transform: translate3D(-74.42px,584.07px,0.00px) rotate(-115.24deg) scale(1,1);}
+	37.60% {transform: translate3D(-61.28px,602.32px,0.00px) rotate(-111.56deg) scale(1,1);}
+	38.00% {transform: translate3D(-48.14px,620.11px,0.00px) rotate(-107.88deg) scale(1,1);}
+	38.40% {transform: translate3D(-35.21px,637.49px,0.00px) rotate(-104.20deg) scale(1,1);}
+	38.80% {transform: translate3D(-22.70px,654.52px,0.00px) rotate(-100.52deg) scale(1,1);}
+	39.20% {transform: translate3D(-10.78px,671.23px,0.00px) rotate(-96.84deg) scale(1,1);}
+	39.60% {transform: translate3D(0.36px,687.65px,0.00px) rotate(-93.16deg) scale(1,1);}
+	40.00% {transform: translate3D(10.57px,703.77px,0.00px) rotate(-89.48deg) scale(1,1);}
+	40.40% {transform: translate3D(19.69px,719.57px,0.00px) rotate(-85.80deg) scale(1,1);}
+	40.80% {transform: translate3D(27.56px,734.99px,0.00px) rotate(-82.12deg) scale(1,1);}
+	41.20% {transform: translate3D(34.07px,749.92px,0.00px) rotate(-78.44deg) scale(1,1);}
+	41.60% {transform: translate3D(39.11px,764.19px,0.00px) rotate(-74.76deg) scale(1,1);}
+	42.00% {transform: translate3D(42.69px,777.58px,0.00px) rotate(-71.08deg) scale(1,1);}
+	42.40% {transform: translate3D(44.87px,789.81px,0.00px) rotate(-67.40deg) scale(1,1);}
+	42.80% {transform: translate3D(45.87px,800.58px,0.00px) rotate(-63.72deg) scale(1,1);}
+	43.20% {transform: translate3D(46.01px,809.57px,0.00px) rotate(-60.04deg) scale(1,1);}
+	43.60% {transform: translate3D(45.65px,816.46px,0.00px) rotate(-56.36deg) scale(1,1);}
+	44.00% {transform: translate3D(45.20px,820.90px,0.00px) rotate(-52.68deg) scale(1,1);}
+	44.40% {transform: translate3D(45.00px,822.50px,0.00px) rotate(-49.00deg) scale(1,1);}
+	44.80% {transform: translate3D(42.74px,839.19px,0.00px) rotate(-47.04deg) scale(1,1);}
+	45.20% {transform: translate3D(40.19px,857.83px,0.00px) rotate(-45.08deg) scale(1,1);}
+	45.60% {transform: translate3D(37.49px,877.36px,0.00px) rotate(-43.12deg) scale(1,1);}
+	46.00% {transform: translate3D(34.71px,897.31px,0.00px) rotate(-41.16deg) scale(1,1);}
+	46.40% {transform: translate3D(31.89px,917.41px,0.00px) rotate(-39.20deg) scale(1,1);}
+	46.80% {transform: translate3D(29.06px,937.48px,0.00px) rotate(-37.24deg) scale(1,1);}
+	47.20% {transform: translate3D(26.26px,957.40px,0.00px) rotate(-35.28deg) scale(1,1);}
+	47.60% {transform: translate3D(23.49px,977.08px,0.00px) rotate(-33.32deg) scale(1,1);}
+	48.00% {transform: translate3D(20.79px,996.43px,0.00px) rotate(-31.36deg) scale(1,1);}
+	48.40% {transform: translate3D(18.18px,1015.39px,0.00px) rotate(-29.40deg) scale(1,1);}
+	48.80% {transform: translate3D(15.67px,1033.90px,0.00px) rotate(-27.44deg) scale(1,1);}
+	49.20% {transform: translate3D(13.28px,1051.88px,0.00px) rotate(-25.48deg) scale(1,1);}
+	49.60% {transform: translate3D(11.04px,1069.27px,0.00px) rotate(-23.52deg) scale(1,1);}
+	50.00% {transform: translate3D(8.96px,1086.01px,0.00px) rotate(-21.56deg) scale(1,1);}
+	50.40% {transform: translate3D(7.07px,1102.03px,0.00px) rotate(-19.60deg) scale(1,1);}
+	50.80% {transform: translate3D(5.39px,1117.24px,0.00px) rotate(-17.64deg) scale(1,1);}
+	51.20% {transform: translate3D(3.92px,1131.55px,0.00px) rotate(-15.68deg) scale(1,1);}
+	51.60% {transform: translate3D(2.69px,1144.87px,0.00px) rotate(-13.72deg) scale(1,1);}
+	52.00% {transform: translate3D(1.71px,1157.08px,0.00px) rotate(-11.76deg) scale(1,1);}
+	52.40% {transform: translate3D(0.97px,1168.04px,0.00px) rotate(-9.80deg) scale(1,1);}
+	52.80% {transform: translate3D(0.47px,1177.59px,0.00px) rotate(-7.84deg) scale(1,1);}
+	53.20% {transform: translate3D(0.18px,1185.54px,0.00px) rotate(-5.88deg) scale(1,1);}
+	53.60% {transform: translate3D(0.04px,1191.63px,0.00px) rotate(-3.92deg) scale(1,1);}
+	54.00% {transform: translate3D(0.00px,1195.59px,0.00px) rotate(-1.96deg) scale(1,1);}
+	54.40% {transform: translate3D(0.00px,1197.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1197.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1197.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class4{
+    left: 678.50px;
+    top: -1025.50px;
+    width: 563px;
+    height: 803px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(-37.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG4{
+    background: url("imgs/%E5%8F%B6%E5%AD%90.png");
+}
+.BX_Ani4{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey4 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey4{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(-37.00deg) scale(1,1);}
+	35.20% {transform: translate3D(-0.26px,17.32px,0.00px) rotate(-35.72deg) scale(1,1);}
+	35.60% {transform: translate3D(-0.96px,36.69px,0.00px) rotate(-34.44deg) scale(1,1);}
+	36.00% {transform: translate3D(-1.96px,56.96px,0.00px) rotate(-33.16deg) scale(1,1);}
+	36.40% {transform: translate3D(-3.13px,77.65px,0.00px) rotate(-31.88deg) scale(1,1);}
+	36.80% {transform: translate3D(-4.40px,98.51px,0.00px) rotate(-30.60deg) scale(1,1);}
+	37.20% {transform: translate3D(-5.69px,119.33px,0.00px) rotate(-29.32deg) scale(1,1);}
+	37.60% {transform: translate3D(-6.96px,139.99px,0.00px) rotate(-28.04deg) scale(1,1);}
+	38.00% {transform: translate3D(-8.20px,160.41px,0.00px) rotate(-26.76deg) scale(1,1);}
+	38.40% {transform: translate3D(-9.36px,180.49px,0.00px) rotate(-25.48deg) scale(1,1);}
+	38.80% {transform: translate3D(-10.44px,200.16px,0.00px) rotate(-24.20deg) scale(1,1);}
+	39.20% {transform: translate3D(-11.43px,219.35px,0.00px) rotate(-22.92deg) scale(1,1);}
+	39.60% {transform: translate3D(-12.32px,238.00px,0.00px) rotate(-21.64deg) scale(1,1);}
+	40.00% {transform: translate3D(-13.10px,256.03px,0.00px) rotate(-20.36deg) scale(1,1);}
+	40.40% {transform: translate3D(-13.78px,273.38px,0.00px) rotate(-19.08deg) scale(1,1);}
+	40.80% {transform: translate3D(-14.35px,289.97px,0.00px) rotate(-17.80deg) scale(1,1);}
+	41.20% {transform: translate3D(-14.82px,305.71px,0.00px) rotate(-16.52deg) scale(1,1);}
+	41.60% {transform: translate3D(-15.20px,320.51px,0.00px) rotate(-15.24deg) scale(1,1);}
+	42.00% {transform: translate3D(-15.49px,334.27px,0.00px) rotate(-13.96deg) scale(1,1);}
+	42.40% {transform: translate3D(-15.70px,346.88px,0.00px) rotate(-12.68deg) scale(1,1);}
+	42.80% {transform: translate3D(-15.84px,358.18px,0.00px) rotate(-11.40deg) scale(1,1);}
+	43.20% {transform: translate3D(-15.93px,368.02px,0.00px) rotate(-10.12deg) scale(1,1);}
+	43.60% {transform: translate3D(-15.97px,376.21px,0.00px) rotate(-8.84deg) scale(1,1);}
+	44.00% {transform: translate3D(-15.99px,382.48px,0.00px) rotate(-7.56deg) scale(1,1);}
+	44.40% {transform: translate3D(-16.00px,386.55px,0.00px) rotate(-6.28deg) scale(1,1);}
+	44.80% {transform: translate3D(-16.00px,388.02px,0.00px) rotate(-5.00deg) scale(1,1);}
+	45.20% {transform: translate3D(-15.69px,405.50px,0.00px) rotate(-5.96deg) scale(1,1);}
+	45.60% {transform: translate3D(-14.67px,425.04px,0.00px) rotate(-6.92deg) scale(1,1);}
+	46.00% {transform: translate3D(-12.93px,445.46px,0.00px) rotate(-7.88deg) scale(1,1);}
+	46.40% {transform: translate3D(-10.56px,466.26px,0.00px) rotate(-8.84deg) scale(1,1);}
+	46.80% {transform: translate3D(-7.68px,487.16px,0.00px) rotate(-9.80deg) scale(1,1);}
+	47.20% {transform: translate3D(-4.39px,507.96px,0.00px) rotate(-10.76deg) scale(1,1);}
+	47.60% {transform: translate3D(-0.81px,528.57px,0.00px) rotate(-11.72deg) scale(1,1);}
+	48.00% {transform: translate3D(2.95px,548.87px,0.00px) rotate(-12.68deg) scale(1,1);}
+	48.40% {transform: translate3D(6.78px,568.82px,0.00px) rotate(-13.64deg) scale(1,1);}
+	48.80% {transform: translate3D(10.61px,588.34px,0.00px) rotate(-14.60deg) scale(1,1);}
+	49.20% {transform: translate3D(14.35px,607.39px,0.00px) rotate(-15.56deg) scale(1,1);}
+	49.60% {transform: translate3D(17.92px,625.90px,0.00px) rotate(-16.52deg) scale(1,1);}
+	50.00% {transform: translate3D(21.27px,643.81px,0.00px) rotate(-17.48deg) scale(1,1);}
+	50.40% {transform: translate3D(24.35px,661.07px,0.00px) rotate(-18.44deg) scale(1,1);}
+	50.80% {transform: translate3D(27.11px,677.61px,0.00px) rotate(-19.40deg) scale(1,1);}
+	51.20% {transform: translate3D(29.53px,693.33px,0.00px) rotate(-20.36deg) scale(1,1);}
+	51.60% {transform: translate3D(31.58px,708.14px,0.00px) rotate(-21.32deg) scale(1,1);}
+	52.00% {transform: translate3D(33.28px,721.94px,0.00px) rotate(-22.28deg) scale(1,1);}
+	52.40% {transform: translate3D(34.61px,734.60px,0.00px) rotate(-23.24deg) scale(1,1);}
+	52.80% {transform: translate3D(35.61px,745.98px,0.00px) rotate(-24.20deg) scale(1,1);}
+	53.20% {transform: translate3D(36.32px,755.89px,0.00px) rotate(-25.16deg) scale(1,1);}
+	53.60% {transform: translate3D(36.79px,764.14px,0.00px) rotate(-26.12deg) scale(1,1);}
+	54.00% {transform: translate3D(37.06px,770.47px,0.00px) rotate(-27.08deg) scale(1,1);}
+	54.40% {transform: translate3D(37.20px,774.57px,0.00px) rotate(-28.04deg) scale(1,1);}
+	54.80% {transform: translate3D(37.24px,776.04px,0.00px) rotate(-29.00deg) scale(1,1);}
+	55.20% {transform: translate3D(37.54px,793.46px,0.00px) rotate(-27.84deg) scale(1,1);}
+	55.60% {transform: translate3D(37.51px,812.92px,0.00px) rotate(-26.68deg) scale(1,1);}
+	56.00% {transform: translate3D(37.09px,833.31px,0.00px) rotate(-25.52deg) scale(1,1);}
+	56.40% {transform: translate3D(36.27px,854.12px,0.00px) rotate(-24.36deg) scale(1,1);}
+	56.80% {transform: translate3D(35.05px,875.07px,0.00px) rotate(-23.20deg) scale(1,1);}
+	57.20% {transform: translate3D(33.49px,895.98px,0.00px) rotate(-22.04deg) scale(1,1);}
+	57.60% {transform: translate3D(31.61px,916.70px,0.00px) rotate(-20.88deg) scale(1,1);}
+	58.00% {transform: translate3D(29.46px,937.14px,0.00px) rotate(-19.72deg) scale(1,1);}
+	58.40% {transform: translate3D(27.09px,957.21px,0.00px) rotate(-18.56deg) scale(1,1);}
+	58.80% {transform: translate3D(24.55px,976.84px,0.00px) rotate(-17.40deg) scale(1,1);}
+	59.20% {transform: translate3D(21.89px,995.97px,0.00px) rotate(-16.24deg) scale(1,1);}
+	59.60% {transform: translate3D(19.17px,1014.53px,0.00px) rotate(-15.08deg) scale(1,1);}
+	60.00% {transform: translate3D(16.44px,1032.46px,0.00px) rotate(-13.92deg) scale(1,1);}
+	60.40% {transform: translate3D(13.76px,1049.69px,0.00px) rotate(-12.76deg) scale(1,1);}
+	60.80% {transform: translate3D(11.18px,1066.17px,0.00px) rotate(-11.60deg) scale(1,1);}
+	61.20% {transform: translate3D(8.76px,1081.82px,0.00px) rotate(-10.44deg) scale(1,1);}
+	61.60% {transform: translate3D(6.56px,1096.54px,0.00px) rotate(-9.28deg) scale(1,1);}
+	62.00% {transform: translate3D(4.64px,1110.23px,0.00px) rotate(-8.12deg) scale(1,1);}
+	62.40% {transform: translate3D(3.03px,1122.80px,0.00px) rotate(-6.96deg) scale(1,1);}
+	62.80% {transform: translate3D(1.77px,1134.09px,0.00px) rotate(-5.80deg) scale(1,1);}
+	63.20% {transform: translate3D(0.88px,1143.95px,0.00px) rotate(-4.64deg) scale(1,1);}
+	63.60% {transform: translate3D(0.34px,1152.15px,0.00px) rotate(-3.48deg) scale(1,1);}
+	64.00% {transform: translate3D(0.08px,1158.45px,0.00px) rotate(-2.32deg) scale(1,1);}
+	64.40% {transform: translate3D(0.01px,1162.54px,0.00px) rotate(-1.16deg) scale(1,1);}
+	64.80% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1164.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class3{
+    left: 1093.50px;
+    top: -482.00px;
+    width: 45px;
+    height: 186px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(0.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG3{
+    background: url("imgs/I.png");
+}
+.BX_Ani3{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey3 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey3{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	5.60% {transform: translate3D(-0.00px,2.63px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.00% {transform: translate3D(0.00px,11.10px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.40% {transform: translate3D(0.00px,26.31px,0.00px) rotate(0.00deg) scale(1,1);}
+	6.80% {transform: translate3D(0.00px,49.27px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.20% {transform: translate3D(0.00px,80.98px,0.00px) rotate(0.00deg) scale(1,1);}
+	7.60% {transform: translate3D(0.00px,122.24px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.00% {transform: translate3D(0.00px,173.37px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.40% {transform: translate3D(0.00px,233.74px,0.00px) rotate(0.00deg) scale(1,1);}
+	8.80% {transform: translate3D(0.00px,301.58px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.20% {transform: translate3D(0.00px,374.03px,0.00px) rotate(0.00deg) scale(1,1);}
+	9.60% {transform: translate3D(0.00px,447.78px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.00% {transform: translate3D(0.00px,519.93px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.40% {transform: translate3D(0.00px,588.38px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.80% {transform: translate3D(0.00px,651.95px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.20% {transform: translate3D(0.00px,710.16px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.60% {transform: translate3D(0.00px,763.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.00% {transform: translate3D(0.00px,810.71px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.40% {transform: translate3D(0.00px,853.64px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.80% {transform: translate3D(0.00px,892.18px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.20% {transform: translate3D(0.00px,926.72px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.60% {transform: translate3D(0.00px,957.63px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.00% {transform: translate3D(0.00px,985.23px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.40% {transform: translate3D(0.00px,1009.83px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.80% {transform: translate3D(0.00px,1031.69px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.20% {transform: translate3D(0.00px,1051.03px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.60% {transform: translate3D(0.00px,1068.09px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.00% {transform: translate3D(-0.00px,1083.03px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.40% {transform: translate3D(0.00px,1096.02px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.80% {transform: translate3D(0.00px,1107.21px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.20% {transform: translate3D(0.00px,1116.72px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.60% {transform: translate3D(0.00px,1124.68px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.00% {transform: translate3D(0.00px,1131.19px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.40% {transform: translate3D(0.00px,1136.35px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.80% {transform: translate3D(0.00px,1140.23px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.20% {transform: translate3D(0.00px,1142.94px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.60% {transform: translate3D(0.00px,1144.50px,0.00px) rotate(0.00deg) scale(1,1);}
+	20.00% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1145.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class2{
+    left: 70.50px;
+    top: -1038.50px;
+    width: 2019px;
+    height: 935px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(0.00deg) scale(1.00,1.00);
+    opacity: 1.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG2{
+    background: url("imgs/%E7%BB%84%204.png");
+}
+.BX_Ani2{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey2 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey2{
+	0.00% {transform: translate3D(0.00px,0.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.40% {transform: translate3D(0.00px,2.69px,0.00px) rotate(0.00deg) scale(1,1);}
+	10.80% {transform: translate3D(-0.00px,11.25px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.20% {transform: translate3D(0.00px,26.29px,0.00px) rotate(0.00deg) scale(1,1);}
+	11.60% {transform: translate3D(0.00px,48.49px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.00% {transform: translate3D(-0.00px,78.43px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.40% {transform: translate3D(0.00px,116.56px,0.00px) rotate(0.00deg) scale(1,1);}
+	12.80% {transform: translate3D(0.00px,162.99px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.20% {transform: translate3D(0.00px,217.38px,0.00px) rotate(0.00deg) scale(1,1);}
+	13.60% {transform: translate3D(0.00px,278.78px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.00% {transform: translate3D(0.00px,345.64px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.40% {transform: translate3D(0.00px,416.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	14.80% {transform: translate3D(0.00px,487.68px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.20% {transform: translate3D(0.00px,558.72px,0.00px) rotate(0.00deg) scale(1,1);}
+	15.60% {transform: translate3D(0.00px,627.50px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.00% {transform: translate3D(0.00px,692.88px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.40% {transform: translate3D(0.00px,754.19px,0.00px) rotate(0.00deg) scale(1,1);}
+	16.80% {transform: translate3D(0.00px,811.06px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.20% {transform: translate3D(0.00px,863.42px,0.00px) rotate(0.00deg) scale(1,1);}
+	17.60% {transform: translate3D(0.00px,911.34px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.00% {transform: translate3D(0.00px,955.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.40% {transform: translate3D(0.00px,994.62px,0.00px) rotate(0.00deg) scale(1,1);}
+	18.80% {transform: translate3D(0.00px,1030.46px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.20% {transform: translate3D(0.00px,1062.76px,0.00px) rotate(0.00deg) scale(1,1);}
+	19.60% {transform: translate3D(0.00px,1091.77px,0.00px) rotate(0.00deg) scale(1,1);}
+	20.00% {transform: translate3D(0.00px,1117.73px,0.00px) rotate(0.00deg) scale(1,1);}
+	20.40% {transform: translate3D(0.00px,1140.84px,0.00px) rotate(0.00deg) scale(1,1);}
+	20.80% {transform: translate3D(0.00px,1161.32px,0.00px) rotate(0.00deg) scale(1,1);}
+	21.20% {transform: translate3D(0.00px,1179.35px,0.00px) rotate(0.00deg) scale(1,1);}
+	21.60% {transform: translate3D(0.00px,1195.08px,0.00px) rotate(0.00deg) scale(1,1);}
+	22.00% {transform: translate3D(0.00px,1208.68px,0.00px) rotate(0.00deg) scale(1,1);}
+	22.40% {transform: translate3D(0.00px,1220.29px,0.00px) rotate(0.00deg) scale(1,1);}
+	22.80% {transform: translate3D(0.00px,1230.02px,0.00px) rotate(0.00deg) scale(1,1);}
+	23.20% {transform: translate3D(0.00px,1238.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	23.60% {transform: translate3D(0.00px,1244.33px,0.00px) rotate(0.00deg) scale(1,1);}
+	24.00% {transform: translate3D(0.00px,1249.11px,0.00px) rotate(0.00deg) scale(1,1);}
+	24.40% {transform: translate3D(0.00px,1252.45px,0.00px) rotate(0.00deg) scale(1,1);}
+	24.80% {transform: translate3D(0.00px,1254.38px,0.00px) rotate(0.00deg) scale(1,1);}
+	25.20% {transform: translate3D(0.00px,1255.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	99.60% {transform: translate3D(0.00px,1255.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	100.00% {transform: translate3D(0.00px,1255.00px,0.00px) rotate(0.00deg) scale(1,1);}
+	}
+.BX_Class1{
+    left: 0.00px;
+    top: 0.00px;
+    width: 1920px;
+    height: 1080px;
+    transform-style: preserve-3d;
+    transform: translate3D(0,0,0.00px) rotate(0.00deg) scale(1.00,1.00);
+    opacity: 0.00;
+    transform-origin:50.00% 50.00%;
+    display: block;
+    position: absolute; 
+}
+.BX_BG1{
+    background: url("imgs/%E8%83%8C%E6%99%AF%20%E6%8B%B7%E8%B4%9D.png");
+}
+.BX_Ani1{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation:BX_AniKey1 10.00s steps(1) 0.00s infinite normal none;
+}
+@keyframes BX_AniKey1{
+	0.00% {opacity: 0;}
+	80.00% {opacity: 0.00;}
+	94.40% {opacity: 0.07;}
+	94.80% {opacity: 0.14;}
+	95.20% {opacity: 0.21;}
+	95.60% {opacity: 0.29;}
+	96.00% {opacity: 0.36;}
+	96.40% {opacity: 0.43;}
+	96.80% {opacity: 0.50;}
+	97.20% {opacity: 0.57;}
+	97.60% {opacity: 0.64;}
+	98.00% {opacity: 0.71;}
+	98.40% {opacity: 0.79;}
+	98.80% {opacity: 0.86;}
+	99.20% {opacity: 0.93;}
+	99.60% {opacity: 1.00;}
+	100.00% {opacity: 1.00;}
+	}
