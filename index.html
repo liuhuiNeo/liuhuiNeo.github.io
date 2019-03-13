@@ -3,8 +3,11 @@
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
-<meta name="viewport" content="target-densitydpi=device-dpi,width=1920,user-scalable=no" /> 
+<meta name="viewport" content="target-densitydpi=device-dpi,width=1920,user-scalable=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="BX_合成_1_style.css">
+<script src="javascript/jquery-1.10.2.js"></script>
 <title>合成 1</title>
 <head>
     <style>
@@ -23,29 +26,136 @@
 	    position: relative;
 	    margin: 0 auto;
 	    padding: 0;
+        color: #333;
 	}
+    .BX_AEComposition{
+        transform: scale(0.7,0.7);
+        transform-origin: 0% 0%;
+    }
+    </style>
+    <style>
+        .class_page1{
+            width: 100%;
+            height: 1080px;
+            position: fixed;
+            padding: 0;
+            margin: 0 auto;
+            overflow: hidden;
+            background: url("imgs/%E8%83%8C%E6%99%AF%20%E6%8B%B7%E8%B4%9D.jpg");
+            background-size: cover;
+            z-index: 9;
+        }
+        .class_page2{
+            width: 100%;
+            height: auto;
+            position: relative;
+            padding: 0;
+            margin: 0 auto;
+            top: 800px;
+            overflow: hidden;
+            background: url("imgs/feathered_rectangle.png") no-repeat;
+            background-size: 100%;
+            z-index: 99;
+        }
+        .page2_title{
+            background: #ffffff;
+            width: 100%;
+            height: 300px;
+            position: relative;
+            padding: 0;
+            margin: 0 auto;
+            top: 800px;
+        }
+        .page2_content{
+            background: #ffffff;
+            width: 100%;
+            height: 1500px;
+            position: relative;
+            padding: 0;
+            margin: 0 auto;
+            top: 800px;
+        }
+        .page2_content1_img{
+            padding: 0;
+            height: 800px;
+        }
+        .page2_content1_img img{
+            box-shadow: 0px 2px 15px #ccc;
+        }
+        .page2_content1_img img:hover{
+            transform: scale(1.01,1.01);
+            box-shadow: 0px 2px 15px #333;
+        }
+        .decorate_div_yellow{
+            background: #ffcd00;
+            height: 40px;
+            width: 20%;
+            position: absolute;
+            right: -10%;
+            top: -3%;
+            text-align: center;
+            line-height: 40px;
+            color: #fff;
+        }
+        .btn_view_content1{
+            background: #24a4ff;
+            width: 100px;
+            height: 36px;
+            color: #ffffff;
+            border-radius: 0;
+            margin-top: 30px;
+            font-size: 12px;
+        }
     </style>
 </head>
 <body>
-<div class="BX_AEComposition" AELayerName="合成_1">
-<div class="BX_Class18 BX_BG18 BX_Ani18" id="BX_Layer18" AELayerName="18.背景_拷贝.png"></div>
-<div class="BX_Class17 BX_BG17 BX_Ani17" id="BX_Layer17" AELayerName="17.D.png"></div>
-<div class="BX_Class16 BX_BG16 BX_Ani16" id="BX_Layer16" AELayerName="16.E.png"></div>
-<div class="BX_Class15 BX_BG15 BX_Ani15" id="BX_Layer15" AELayerName="15.G.png"></div>
-<div class="BX_Class14 BX_BG14 BX_Ani14" id="BX_Layer14" AELayerName="14.S.png"></div>
-<div class="BX_Class13 BX_BG13 BX_Ani13" id="BX_Layer13" AELayerName="13.N.png"></div>
-<div class="BX_Class12 BX_BG12 BX_Ani12" id="BX_Layer12" AELayerName="12.叶子_拷贝_2.png"></div>
-<div class="BX_Class11 BX_BG11 BX_Ani11" id="BX_Layer11" AELayerName="11.叶子_拷贝_3.png"></div>
-<div class="BX_Class10 BX_BG10 BX_Ani10" id="BX_Layer10" AELayerName="10.叶子_拷贝_4.png"></div>
-<div class="BX_Class9 BX_BG9 BX_Ani9" id="BX_Layer9" AELayerName="9.叶子_拷贝_5.png"></div>
-<div class="BX_Class8 BX_BG8 BX_Ani8" id="BX_Layer8" AELayerName="8.叶子_拷贝_6.png"></div>
-<div class="BX_Class7 BX_BG7 BX_Ani7" id="BX_Layer7" AELayerName="7.叶子_拷贝_7.png"></div>
-<div class="BX_Class6 BX_BG6 BX_Ani6" id="BX_Layer6" AELayerName="6.叶子_拷贝_8.png"></div>
-<div class="BX_Class5 BX_BG5 BX_Ani5" id="BX_Layer5" AELayerName="5.叶子_拷贝.png"></div>
-<div class="BX_Class4 BX_BG4 BX_Ani4" id="BX_Layer4" AELayerName="4.叶子.png"></div>
-<div class="BX_Class3 BX_BG3 BX_Ani3" id="BX_Layer3" AELayerName="3.I.png"></div>
-<div class="BX_Class2 BX_BG2 BX_Ani2" id="BX_Layer2" AELayerName="2.组_4.png"></div>
-<div class="BX_Class1 BX_BG1 BX_Ani1" id="BX_Layer1" AELayerName="1.背景_拷贝.jpg"></div>
+<div id="page1" class="class_page1">
+    <div class="BX_AEComposition" AELayerName="合成_1">
+        <div class="BX_Class18 BX_BG18 BX_Ani18" id="BX_Layer18" AELayerName="18.背景_拷贝.png"></div>
+        <div class="BX_Class17 BX_BG17 BX_Ani17" id="BX_Layer17" AELayerName="17.D.png"></div>
+        <div class="BX_Class16 BX_BG16 BX_Ani16" id="BX_Layer16" AELayerName="16.E.png"></div>
+        <div class="BX_Class15 BX_BG15 BX_Ani15" id="BX_Layer15" AELayerName="15.G.png"></div>
+        <div class="BX_Class14 BX_BG14 BX_Ani14" id="BX_Layer14" AELayerName="14.S.png"></div>
+        <div class="BX_Class13 BX_BG13 BX_Ani13" id="BX_Layer13" AELayerName="13.N.png"></div>
+        <div class="BX_Class12 BX_BG12 BX_Ani12" id="BX_Layer12" AELayerName="12.叶子_拷贝_2.png"></div>
+        <div class="BX_Class11 BX_BG11 BX_Ani11" id="BX_Layer11" AELayerName="11.叶子_拷贝_3.png"></div>
+        <div class="BX_Class10 BX_BG10 BX_Ani10" id="BX_Layer10" AELayerName="10.叶子_拷贝_4.png"></div>
+        <div class="BX_Class9 BX_BG9 BX_Ani9" id="BX_Layer9" AELayerName="9.叶子_拷贝_5.png"></div>
+        <div class="BX_Class8 BX_BG8 BX_Ani8" id="BX_Layer8" AELayerName="8.叶子_拷贝_6.png"></div>
+        <div class="BX_Class7 BX_BG7 BX_Ani7" id="BX_Layer7" AELayerName="7.叶子_拷贝_7.png"></div>
+        <div class="BX_Class6 BX_BG6 BX_Ani6" id="BX_Layer6" AELayerName="6.叶子_拷贝_8.png"></div>
+        <div class="BX_Class5 BX_BG5 BX_Ani5" id="BX_Layer5" AELayerName="5.叶子_拷贝.png"></div>
+        <div class="BX_Class4 BX_BG4 BX_Ani4" id="BX_Layer4" AELayerName="4.叶子.png"></div>
+        <div class="BX_Class3 BX_BG3 BX_Ani3" id="BX_Layer3" AELayerName="3.I.png"></div>
+        <div class="BX_Class2 BX_BG2 BX_Ani2" id="BX_Layer2" AELayerName="2.组_4.png"></div>
+        <div class="BX_Class1 BX_BG1 BX_Ani1" id="BX_Layer1" AELayerName="1.背景_拷贝.jpg"></div>
+    </div>
+</div>
+<div id="page2" class="class_page2 container">
+    <div class="page2_title row">
+            <h3 class="text-center" style="line-height: 300px">
+                作品展示
+            </h3>
+    </div>
+    <div class="page2_content row">
+        <div class="page2_content1_img col-sm-4 col-sm-offset-2">
+            <img class="img-responsive" alt="Responsive image" src="imgs/UI/previouspic1.jpg">
+            <div class="decorate_div_yellow">
+                个人作品
+            </div>
+        </div>
+        <div class="page2_content1_intro col-sm-3 col-sm-offset-1">
+            <h3>一款简洁的票务APP</h3><br>
+            <p>通过你的兴趣推荐你喜欢的票务信息。包括电影，演唱
+            会，体育赛事，音乐剧，剧场，展览等。简洁的界面和
+            简便的操作，带给你完全不一样的体验。</p><br><br>
+            <p>花了将近一个月的闲余时间，做出了自己第一个UI作品.
+                <br><br>
+                从建立思维导图决定APP的主要功能到决定APP的设
+                计风格。从设计的执行设计到APP的修改和完善。每一个设计的流程都能让自己学习和成长。</p>
+            <button class="btn btn_view_content1 text-center center-block">浏览全部</button>
+        </div>
+    </div>
 </div>
 </body>
 </html>
