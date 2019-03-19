@@ -12,8 +12,6 @@
 .class_page2 .page2_title1{
     padding: 0;
     margin: 0 auto;
-    position: relative;
-    top: 600px;
     background: #ffffff;
     line-height: 100px;
 }
@@ -25,23 +23,34 @@
     top: 800px;
     overflow: hidden;
     padding: 0;
-    background: url("../imgs/feathered_rectangle.png") no-repeat;
-    background-size: 100%;
     z-index: 99;
 }
 .page2_content1{
     background: #ffffff;
     padding: 100px 0;
     margin: 0 auto;
-    margin-top: 600px;
 }
-
-.page2_content1_img img{
+.page2_headblur{
+    height: auto;
+    background: url("../imgs/feathered_rectangle.png") no-repeat;
+    background-size: 100%;
+    z-index: 99;
+}
+.page2_content1_img{
+    padding: 15px;
+}
+.page2_content1_img img:nth-of-type(1){
     box-shadow: 0 2px 15px #ccc;
 }
 .page2_content1_img img:hover{
-    transform: scale(1.01,1.01);
-    box-shadow: 0 2px 15px #333;
+
+}
+.page2_content1_img_mask{
+    padding: 15px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
 }
 .decorate_div_yellow{
     background: #ffcd00;
@@ -64,7 +73,7 @@
     font-size: 12px;
 }
 .page2_content2{
-    background: url("../imgs/小猫插画.png") no-repeat;
+    background: #fff;
     background-size: cover;
     padding: 100px 0;
     margin: 0 auto;
