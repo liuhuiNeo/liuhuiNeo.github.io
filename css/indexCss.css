@@ -27,30 +27,61 @@
 }
 .page2_content1{
     background: #ffffff;
-    padding: 100px 0;
+    width: 100%;
+    padding: 50px 0;
     margin: 0 auto;
 }
 .page2_headblur{
-    height: auto;
-    background: url("../imgs/feathered_rectangle.png") no-repeat;
-    background-size: 100%;
-    z-index: 99;
+
+}
+.page2_headblur img{
+    width: 100%;
 }
 .page2_content1_img{
-    padding: 15px;
+    padding: 10px;
 }
-.page2_content1_img img:nth-of-type(1){
+.page2_content1_img>img{
     box-shadow: 0 2px 15px #ccc;
+    border-radius: 5px 5px 0 0;
 }
 .page2_content1_img img:hover{
 
 }
+.page2_content1_img_mask img{
+    border-radius: 5px 5px 0 0;
+}
 .page2_content1_img_mask{
-    padding: 15px;
+    padding: 10px;
     position: absolute;
     top: 0;
     left: 0;
     opacity: 0;
+}
+.page2_content1_img_mask p{
+    line-height: 60px;
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 1px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.page2_content1_img_mask .link-top{
+    display: inline-block;
+    width: 30%;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #fff;
+}
+.page2_content1_img_mask .btn_ui0{
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 1px;
+    cursor: pointer;
 }
 .decorate_div_yellow{
     background: #ffcd00;
@@ -74,27 +105,39 @@
 }
 .page2_content2{
     background: #fff;
-    background-size: cover;
     padding: 100px 0;
     margin: 0 auto;
 }
+.page2_content2 .page2_headblur2{
+    height: auto;
+}
+.page2_headblur2 img{
+    width: 100%;
+}
 .page2_content2 .page2_content2_img img{
-    box-shadow: 0 2px 15px #999;
+
 }
 .class_page2 .page2_title2{
     padding: 0;
     margin: 0 auto;
-    background: #ffffff;
+    background: #fff;
     line-height: 100px;
+}
+.page2_content2_img{
+
+    background-size: 100% 100%;
+    padding-top: 50px;
 }
 .page2_content2_fluid .page2_content3_img{
     padding-top:15px;
     padding-bottom:15px;
 }
-.page2_content2_fluid .page2_content3_img img{
-    box-shadow: 0 2px 15px #999;
+.page2_content2_fluid .carousel-control{
+    opacity: 0.2;
+}
+.page2_content2_fluid .carousel-control:hover{
+    opacity: 0.6;
 }
 .page2_content2_fluid .page2_content3_img img:hover{
-    transform: scale(1.05,1.05);
-    box-shadow: 0 2px 15px #333;
+
 }
