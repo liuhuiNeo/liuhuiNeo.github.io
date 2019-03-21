@@ -54,7 +54,13 @@ $(window).load(function () {
             }
         },30);
     })
-})
+
+    //下载简历
+    $("#download_resume").click(function(){
+        var url = "https://liuhuineo.github.io/download/%E6%B5%8B%E8%AF%95.rar";
+        window.open(url);
+    });
+});
 function  copyEmail(event) {
     var clipboard = new ClipboardJS("#emailAddr");//实例化
     //复制成功执行的回调，可选
