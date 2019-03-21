@@ -9,6 +9,69 @@
     background-size: cover;
     z-index: 9;
 }
+#page_head{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    padding: 0;
+    margin: 0 auto;
+    z-index: 999;
+}
+#page_head .logo{
+    width: auto;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 10%;
+}
+#page_head .logo img{
+    position: relative;
+    width: 80px;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#page_head .menu{
+    position: absolute;
+    top: 0;
+    right: 10%;
+}
+#page_head ul{
+    font-size: 14px;
+    list-style: none;
+    background-color: #fff;
+}
+#page_head .dividing_line{
+    display: inline-block;
+    width: 1px;
+    height: 10px;
+    background-color: #333;
+}
+#page_head ul li{
+    color: #111;
+    background-color: #fff;
+    float: left;
+    display: inline-block;
+    line-height: 50px;
+    padding: 0 10px;
+}
+#page_head ul li a{
+    color: #333;
+}
+#page_head ul li a:hover{
+    cursor: pointer;
+    color:#24a4ff;
+    text-decoration: none;
+}
+#page_head ul li:nth-of-type(1){
+    padding-left: 40px;
+    border-radius: 0 0 0 100px;
+}
+#page_head ul li:nth-of-type(5){
+    padding-right: 40px;
+    border-radius: 0 0 100px 0;
+}
 .class_page2 .page2_title1{
     padding: 0;
     margin: 0 auto;

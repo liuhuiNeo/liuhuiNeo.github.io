@@ -10,6 +10,7 @@
 <link rel="stylesheet" type="text/css" href="css/indexCss.css">
 <script src="javascript/jquery-1.10.2.js"></script>
 <script src="javascript/bootstrap.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
 <script src="javascript/index.js"></script>
 <title>合成 1</title>
 <head>
@@ -58,6 +59,20 @@
         <div class="BX_Class3 BX_BG3 BX_Ani3" id="BX_Layer3" AELayerName="3.I.png"></div>
         <div class="BX_Class2 BX_BG2 BX_Ani2" id="BX_Layer2" AELayerName="2.组_4.png"></div>
         <div class="BX_Class1 BX_BG1 BX_Ani1" id="BX_Layer1" AELayerName="1.背景_拷贝.jpg"></div>
+    </div>
+</div>
+<div id="page_head">
+    <div class="logo">
+        <img src="imgs/logo.png">
+    </div>
+    <div class="menu">
+        <ul>
+            <li><a>简历下载</a></li>
+            <li><span class="dividing_line"></span></li>
+            <li><a id="emailAddr" onClick="copyEmail()" data-clipboard-text="liuhui.rious@qq.com" >我的邮箱</a></li>
+            <li><span class="dividing_line"></span></li>
+            <li><a class="slideTo_portfolio">我的作品</a></li>
+        </ul>
     </div>
 </div>
 <div id="page2" class="class_page2 container">
