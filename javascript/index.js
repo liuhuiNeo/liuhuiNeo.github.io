@@ -1,3 +1,18 @@
+var type = {
+    str:["我叫刘辉",
+        "我是一名设计爱好者",
+        "我喜欢挑战自己",
+        "我感想敢做",
+        "我在学习，在进步！",
+        "我渴望一个机会",
+        "我",
+        "我就是我！"],
+    length:0,//数组
+    i:0,//字符
+    typeAction:true,
+    speed:100
+};
+
 $(window).load(function () {
 
     $(".page2_content1 .page2_content1_img").hover(function () {
@@ -60,12 +75,36 @@ $(window).load(function () {
         var url = "https://liuhuineo.github.io/download/%E6%B5%8B%E8%AF%95.rar";
         window.open(url);
     });
+
+    typing();
 });
+function typing(){
+    var divTyping = document.getElementById("divTyping");
+    if (type.length <= type.str[type.i].length && type.typeAction) {
+        divTyping.innerHTML = type.str[type.i].slice(0, type.length++) + "|";
+        setTimeout("typing(type.str[type.i])", type.speed);//递归调用
+    }
+    else{
+        type.typeAction = false;
+        type.length == type.str[type.i].length? type.speed=500:type.speed = 100;
+        if(type.length != 0){
+            divTyping.innerHTML = type.str[type.i].slice(0, type.length--) + "|";//结束打字,移除 _ 光标
+            setTimeout("typing(type.str[type.i])", type.speed);//递归调用
+        }else {
+            divTyping.innerHTML = "";
+            type.typeAction = true;
+            type.length = 0;
+            setTimeout("typing(type.str[type.i])", type.speed);//递归调用
+            type.i+1>= type.str.length ? type.i=0:type.i++;
+        }
+    }
+}
 function  copyEmail(event) {
+
     var clipboard = new ClipboardJS("#emailAddr");//实例化
     //复制成功执行的回调，可选
     clipboard.on('success', function() {
-        alert("邮箱复制成功！");
+       alert("邮箱复制成功！");
     });
     //复制失败执行的回调，可选
     clipboard.on('error', function(e) {
