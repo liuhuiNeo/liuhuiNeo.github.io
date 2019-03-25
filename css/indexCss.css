@@ -99,6 +99,7 @@
 }
 .page2_headblur img{
     width: 100%;
+    height: auto;
 }
 .page2_content1_img{
     padding: 10px;
@@ -192,8 +193,9 @@
 .page2_headblur2 img{
     width: 100%;
 }
-.page2_content2 .page2_content2_img img{
 
+#carousel-example-generic .carousel-inner img{
+    width: 100%;
 }
 .class_page2 .page2_title2{
     padding: 0;
@@ -205,6 +207,9 @@
 
     background-size: 100% 100%;
     padding-top: 50px;
+}
+.page2_content2_fluid{
+    padding: 30px;
 }
 .page2_content2_fluid .page2_content3_img{
     padding-top:15px;
