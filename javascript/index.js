@@ -67,7 +67,7 @@ $(window).load(function () {
 
     //下载简历
     $("#download_resume").click(function(){
-        var url = "https://liuhuineo.github.io/download/%E6%B5%8B%E8%AF%95.rar";
+        var url = "https://liuhuineo.github.io/download/简历_刘辉_UI设计师.zip";
         window.open(url);
     });
 
