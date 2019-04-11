@@ -74,15 +74,17 @@ $(window).load(function () {
     typing();
 
     $("#viewMore").click(function(){
-        console.log(1);
-        $.ajax({
-            url: "viewmore.html",
-            cache: false,
-            success: function(html){
-                $("#myModal1").html(html);
-                console.log(html)
-            }
-        });
+        if($("#myModal1").html().trim() == ""){
+            console.log(1);
+            $.ajax({
+                url: "viewmore.html",
+                cache: false,
+                success: function(html){
+                    $("#myModal1").html(html);
+                    console.log(html)
+                }
+            });
+        }
     })
 });
 function typing(){
