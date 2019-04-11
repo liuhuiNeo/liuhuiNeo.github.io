@@ -30,12 +30,10 @@ $(window).load(function () {
         var blurH = $(".page2_headblur").offset().top;
         var windowH = $(window).height();
         if(blurH <= scrollTopH + windowH - 500 && scroll == false){
-            console.log(1)
             $("#page_head").animate({top:-50},300);
             scroll = true;
         }
         if(blurH > scrollTopH + windowH - 500 && scroll == true){
-            console.log(2)
             $("#page_head").animate({top:0},300);
             scroll = false;
         }
@@ -57,7 +55,6 @@ $(window).load(function () {
             //对步长进行二次加工(大于0向上取整,小于0项下取整)
             step = step>0?Math.ceil(step):Math.floor(step);
             //动画原理： 目标位置 = 当前位置 + 步长
-            console.log(step);
             windowH += step
             $(window).scrollTop(windowH);
             //检测缓动动画有没有停止
@@ -75,6 +72,19 @@ $(window).load(function () {
     });
 
     typing();
+
+
+    $("#viewMore").click(function(){
+        console.log(1);
+        $.ajax({
+            url: "viewmore.html",
+            cache: false,
+            success: function(html){
+                $("#myModal1").html(html);
+                console.log(html)
+            }
+        });
+    })
 });
 function typing(){
     var divTyping = document.getElementById("divTyping");
