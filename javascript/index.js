@@ -72,7 +72,7 @@ $(window).load(function () {
     });
 
     typing();
-    
+
     $("#viewMore").click(function(){
         console.log(1);
         $.ajax({
