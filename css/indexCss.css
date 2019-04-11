@@ -185,7 +185,7 @@
     background: #fff;
     padding: 100px 0;
     margin: 0 auto;
-    padding-bottom: 300px;
+    padding-bottom: 130px;
 }
 .page2_content2 .page2_headblur2{
     height: auto;
@@ -232,9 +232,23 @@
 }
 #divTyping{
     color: #eee;
-    font-size: 16pt;
+    font-size: 20pt;
     line-height: 200pt;
-    width: 300px;
+    width: 100%;
     margin: 0 auto;
-    
+}
+.rocket_div{
+    width: 100%;
+}
+.rocket_div{
+    line-height: 30px;
+}
+.rocket_div a{
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.rocket{
+    width: 100px;
+    height: 100px;
+    margin-top: 100px;
 }
