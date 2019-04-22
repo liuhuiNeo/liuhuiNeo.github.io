@@ -1369,7 +1369,7 @@
     position: absolute; 
 }
 .BX_BG1{
-    background: url("imgs/背景-拷贝.jpg");
+    background: url("imgs/background.jpg");
 }
 .BX_Ani1{
     /* animation: name duration timing-function delay iteration-count direction fill-mode; */

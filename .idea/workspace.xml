@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4544a6c2-f525-4f29-b3de-4e216794e830" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/背景 拷贝.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imgs/背景 拷贝.png" afterPath="$PROJECT_DIR$/imgs/背景 拷贝.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/背景-拷贝.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BX_合成_1_style.css" afterPath="$PROJECT_DIR$/BX_合成_1_style.css" />
     </list>
     <ignored path="个人网站bootstrap.iws" />
@@ -59,8 +57,8 @@
       <file leaf-file-name="BX_合成_1_style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BX_合成_1_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34610778">
-              <caret line="1303" column="18" selection-start-line="1303" selection-start-column="18" selection-end-line="1303" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.5017964">
+              <caret line="1362" column="19" selection-start-line="1362" selection-start-column="19" selection-end-line="1362" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -719,8 +717,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BX_合成_1_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34610778">
-          <caret line="1303" column="18" selection-start-line="1303" selection-start-column="18" selection-end-line="1303" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.5017964">
+          <caret line="1362" column="19" selection-start-line="1362" selection-start-column="19" selection-end-line="1362" selection-end-column="19" />
           <folding />
         </state>
       </provider>
