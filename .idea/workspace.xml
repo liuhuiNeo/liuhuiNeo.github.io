@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4544a6c2-f525-4f29-b3de-4e216794e830" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BX_合成_1_style.css" afterPath="$PROJECT_DIR$/BX_合成_1_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/indexCss.css" afterPath="$PROJECT_DIR$/css/indexCss.css" />
     </list>
     <ignored path="个人网站bootstrap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.870968">
-              <caret line="43" column="95" selection-start-line="43" selection-start-column="95" selection-end-line="43" selection-end-column="95" />
+            <state vertical-scroll-proportion="-12.580646">
+              <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -45,21 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indexCss.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="indexCss.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/indexCss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="12" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="12" />
+            <state vertical-scroll-proportion="-6.1526012">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BX_合成_1_style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BX_合成_1_style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BX_合成_1_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45748502">
-              <caret line="1375" column="45" selection-start-line="1375" selection-start-column="45" selection-end-line="1375" selection-end-column="45" />
+            <state vertical-scroll-proportion="-12.258064">
+              <caret line="1365" column="18" selection-start-line="1365" selection-start-column="18" selection-end-line="1365" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -68,7 +67,7 @@
       <file leaf-file-name="viewmore.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/viewmore.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.548387">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
               <folding />
             </state>
@@ -108,11 +107,11 @@
       <list>
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/index - 副本.html" />
-        <option value="$PROJECT_DIR$/css/indexCss.css" />
         <option value="$PROJECT_DIR$/javascript/index.js" />
         <option value="$PROJECT_DIR$/viewmore.html" />
         <option value="$PROJECT_DIR$/BX_合成_1_style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/indexCss.css" />
       </list>
     </option>
   </component>
@@ -152,6 +151,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -172,7 +172,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -338,22 +337,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/viewmore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -684,10 +667,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/indexCss.css">
+    <entry file="file://$PROJECT_DIR$/viewmore.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/作品/UI练习/mywebsite/liuhuiNeo.github.io/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6612717">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/作品/UI练习/mywebsite/liuhuiNeo.github.io/css/indexCss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.060115606">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -700,26 +699,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/viewmore.html">
+    <entry file="file://$PROJECT_DIR$/BX_合成_1_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.548387">
-          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+        <state vertical-scroll-proportion="-12.258064">
+          <caret line="1365" column="18" selection-start-line="1365" selection-start-column="18" selection-end-line="1365" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.870968">
-          <caret line="43" column="95" selection-start-line="43" selection-start-column="95" selection-end-line="43" selection-end-column="95" />
+        <state vertical-scroll-proportion="-12.580646">
+          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BX_合成_1_style.css">
+    <entry file="file://$PROJECT_DIR$/css/indexCss.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45748502">
-          <caret line="1375" column="45" selection-start-line="1375" selection-start-column="45" selection-end-line="1375" selection-end-column="45" />
+        <state vertical-scroll-proportion="-6.1526012">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
           <folding />
         </state>
       </provider>
